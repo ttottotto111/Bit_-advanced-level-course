@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\1012_1\1012_1\bin\Debug\netcoreapp3.1\1012_1.exe
+C:\Users\user\source\repos\1012_1\1012_1\bin\Debug\netcoreapp3.1\1012_1.deps.json
+C:\Users\user\source\repos\1012_1\1012_1\bin\Debug\netcoreapp3.1\1012_1.runtimeconfig.json
+C:\Users\user\source\repos\1012_1\1012_1\bin\Debug\netcoreapp3.1\1012_1.runtimeconfig.dev.json
+C:\Users\user\source\repos\1012_1\1012_1\bin\Debug\netcoreapp3.1\1012_1.dll
+C:\Users\user\source\repos\1012_1\1012_1\bin\Debug\netcoreapp3.1\1012_1.pdb
+C:\Users\user\source\repos\1012_1\1012_1\obj\Debug\netcoreapp3.1\1012_1.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\1012_1\1012_1\obj\Debug\netcoreapp3.1\1012_1.AssemblyInfo.cs
+C:\Users\user\source\repos\1012_1\1012_1\obj\Debug\netcoreapp3.1\1012_1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\1012_1\1012_1\obj\Debug\netcoreapp3.1\1012_1.dll
+C:\Users\user\source\repos\1012_1\1012_1\obj\Debug\netcoreapp3.1\1012_1.pdb
+C:\Users\user\source\repos\1012_1\1012_1\obj\Debug\netcoreapp3.1\1012_1.genruntimeconfig.cache
+C:\Users\user\source\repos\1012_1\1012_1\bin\Debug\netcoreapp3.1\1012ClassLibrary1.dll
+C:\Users\user\source\repos\1012_1\1012_1\bin\Debug\netcoreapp3.1\1012ClassLibrary1.pdb
+C:\Users\user\source\repos\1012_1\1012_1\obj\Debug\netcoreapp3.1\1012_1.csprojAssemblyReference.cache
+C:\Users\user\source\repos\1012_1\1012_1\obj\Debug\netcoreapp3.1\1012_1.csproj.CopyComplete

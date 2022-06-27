@@ -1,0 +1,21 @@
+C:\Users\user\Desktop\WPF\11123PictureClient\11123PictureClient\bin\Debug\11123PictureClient.exe.config
+C:\Users\user\Desktop\WPF\11123PictureClient\11123PictureClient\bin\Debug\11123PictureClient.exe
+C:\Users\user\Desktop\WPF\11123PictureClient\11123PictureClient\bin\Debug\11123PictureClient.pdb
+C:\Users\user\Desktop\WPF\11123PictureClient\11123PictureClient\obj\Debug\_11123PictureClient.Form1.resources
+C:\Users\user\Desktop\WPF\11123PictureClient\11123PictureClient\obj\Debug\_11123PictureClient.PicListForm.resources
+C:\Users\user\Desktop\WPF\11123PictureClient\11123PictureClient\obj\Debug\_11123PictureClient.Properties.Resources.resources
+C:\Users\user\Desktop\WPF\11123PictureClient\11123PictureClient\obj\Debug\11123PictureClient.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\WPF\11123PictureClient\11123PictureClient\obj\Debug\11123PictureClient.exe
+C:\Users\user\Desktop\WPF\11123PictureClient\11123PictureClient\obj\Debug\11123PictureClient.pdb
+C:\Users\KSW\Desktop\비트 고급\11_Web Service\1123PictureClient\1123PictureClient\11123PictureClient\bin\Debug\11123PictureClient.exe.config
+C:\Users\KSW\Desktop\비트 고급\11_Web Service\1123PictureClient\1123PictureClient\11123PictureClient\bin\Debug\11123PictureClient.exe
+C:\Users\KSW\Desktop\비트 고급\11_Web Service\1123PictureClient\1123PictureClient\11123PictureClient\bin\Debug\11123PictureClient.pdb
+C:\Users\KSW\Desktop\비트 고급\11_Web Service\1123PictureClient\1123PictureClient\11123PictureClient\obj\Debug\11123PictureClient.csprojAssemblyReference.cache
+C:\Users\KSW\Desktop\비트 고급\11_Web Service\1123PictureClient\1123PictureClient\11123PictureClient\obj\Debug\_11123PictureClient.Form1.resources
+C:\Users\KSW\Desktop\비트 고급\11_Web Service\1123PictureClient\1123PictureClient\11123PictureClient\obj\Debug\_11123PictureClient.Form2.resources
+C:\Users\KSW\Desktop\비트 고급\11_Web Service\1123PictureClient\1123PictureClient\11123PictureClient\obj\Debug\_11123PictureClient.PicListForm.resources
+C:\Users\KSW\Desktop\비트 고급\11_Web Service\1123PictureClient\1123PictureClient\11123PictureClient\obj\Debug\_11123PictureClient.Properties.Resources.resources
+C:\Users\KSW\Desktop\비트 고급\11_Web Service\1123PictureClient\1123PictureClient\11123PictureClient\obj\Debug\11123PictureClient.csproj.GenerateResource.cache
+C:\Users\KSW\Desktop\비트 고급\11_Web Service\1123PictureClient\1123PictureClient\11123PictureClient\obj\Debug\11123PictureClient.csproj.CoreCompileInputs.cache
+C:\Users\KSW\Desktop\비트 고급\11_Web Service\1123PictureClient\1123PictureClient\11123PictureClient\obj\Debug\11123PictureClient.exe
+C:\Users\KSW\Desktop\비트 고급\11_Web Service\1123PictureClient\1123PictureClient\11123PictureClient\obj\Debug\11123PictureClient.pdb

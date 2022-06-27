@@ -1,0 +1,19 @@
+C:\Users\ㄱ\Desktop\API Sample\1005_실습1\1005_실습1\bin\Debug\1005_실습1.exe.config
+C:\Users\ㄱ\Desktop\API Sample\1005_실습1\1005_실습1\bin\Debug\1005_실습1.exe
+C:\Users\ㄱ\Desktop\API Sample\1005_실습1\1005_실습1\bin\Debug\1005_실습1.pdb
+C:\Users\ㄱ\Desktop\API Sample\1005_실습1\1005_실습1\obj\Debug\1005_실습1.exe
+C:\Users\ㄱ\Desktop\API Sample\1005_실습1\1005_실습1\obj\Debug\1005_실습1.pdb
+C:\Users\KSW\Desktop\1005_실습1\1005_실습1\1005_실습1\bin\Debug\1005_실습1.exe.config
+C:\Users\KSW\Desktop\1005_실습1\1005_실습1\1005_실습1\bin\Debug\1005_실습1.exe
+C:\Users\KSW\Desktop\1005_실습1\1005_실습1\1005_실습1\bin\Debug\1005_실습1.pdb
+C:\Users\KSW\Desktop\1005_실습1\1005_실습1\1005_실습1\obj\Debug\1005_실습1.csprojAssemblyReference.cache
+C:\Users\KSW\Desktop\1005_실습1\1005_실습1\1005_실습1\obj\Debug\1005_실습1.csproj.CoreCompileInputs.cache
+C:\Users\KSW\Desktop\1005_실습1\1005_실습1\1005_실습1\obj\Debug\1005_실습1.exe
+C:\Users\KSW\Desktop\1005_실습1\1005_실습1\1005_실습1\obj\Debug\1005_실습1.pdb
+C:\Users\KSW\Desktop\cs\1006 Map\1005_실습1\1005_실습1\bin\Debug\1005_실습1.exe.config
+C:\Users\KSW\Desktop\cs\1006 Map\1005_실습1\1005_실습1\bin\Debug\1005_실습1.exe
+C:\Users\KSW\Desktop\cs\1006 Map\1005_실습1\1005_실습1\bin\Debug\1005_실습1.pdb
+C:\Users\KSW\Desktop\cs\1006 Map\1005_실습1\1005_실습1\obj\Debug\1005_실습1.csprojAssemblyReference.cache
+C:\Users\KSW\Desktop\cs\1006 Map\1005_실습1\1005_실습1\obj\Debug\1005_실습1.csproj.CoreCompileInputs.cache
+C:\Users\KSW\Desktop\cs\1006 Map\1005_실습1\1005_실습1\obj\Debug\1005_실습1.exe
+C:\Users\KSW\Desktop\cs\1006 Map\1005_실습1\1005_실습1\obj\Debug\1005_실습1.pdb

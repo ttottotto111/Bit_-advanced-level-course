@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\1012ClassLibrary1\1012ClassLibrary1\bin\Debug\netstandard2.0\1012ClassLibrary1.deps.json
+C:\Users\user\source\repos\1012ClassLibrary1\1012ClassLibrary1\bin\Debug\netstandard2.0\1012ClassLibrary1.dll
+C:\Users\user\source\repos\1012ClassLibrary1\1012ClassLibrary1\bin\Debug\netstandard2.0\1012ClassLibrary1.pdb
+C:\Users\user\source\repos\1012ClassLibrary1\1012ClassLibrary1\obj\Debug\netstandard2.0\1012ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\user\source\repos\1012ClassLibrary1\1012ClassLibrary1\obj\Debug\netstandard2.0\1012ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\1012ClassLibrary1\1012ClassLibrary1\obj\Debug\netstandard2.0\1012ClassLibrary1.AssemblyInfo.cs
+C:\Users\user\source\repos\1012ClassLibrary1\1012ClassLibrary1\obj\Debug\netstandard2.0\1012ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\1012ClassLibrary1\1012ClassLibrary1\obj\Debug\netstandard2.0\1012ClassLibrary1.dll
+C:\Users\user\source\repos\1012ClassLibrary1\1012ClassLibrary1\obj\Debug\netstandard2.0\1012ClassLibrary1.pdb

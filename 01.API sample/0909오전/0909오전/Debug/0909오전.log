@@ -1,0 +1,4 @@
+﻿  6.동기화.cpp
+C:\Users\KSW\Desktop\API sample\0909오전\0909오전\6.동기화.cpp(37,57): error C2664: 'uintptr_t _beginthreadex(void *,unsigned int,_beginthreadex_proc_type,void *,unsigned int,unsigned int *)': 인수 4을(를) 'const char [3]'에서 'void *'(으)로 변환할 수 없습니다.
+C:\Users\KSW\Desktop\API sample\0909오전\0909오전\6.동기화.cpp(37,46): message : 변환하면서 한정자가 손실됩니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\process.h(92,28): message : '_beginthreadex' 선언을 참조하십시오.

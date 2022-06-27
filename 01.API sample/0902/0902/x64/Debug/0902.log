@@ -1,0 +1,5 @@
+﻿  gui수신자.cpp
+C:\Users\김승욱\Desktop\API sample\0902\0902\gui수신자.cpp(60,19): warning C4244: '=': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김승욱\Desktop\API sample\0902\0902\gui수신자.cpp(67,19): warning C4244: '=': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\김승욱\Desktop\API sample\0902\0902\gui수신자.cpp(74,22): warning C4244: '=': 'WPARAM'에서 'COLORREF'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  0902.vcxproj -> C:\Users\김승욱\Desktop\API sample\0902\x64\Debug\0902.exe

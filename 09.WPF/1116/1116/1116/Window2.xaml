@@ -1,0 +1,45 @@
+﻿<Window x:Class="_1116.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_1116"
+        mc:Ignorable="d"
+        Title="Window2" Height="450" Width="800">
+    <StackPanel>
+        <!--
+        1) 첫번째 방법 : 속성
+           Button크기(Width:부모, Height:자식컨텐츠)
+        -->
+        <Button Name="btn1" Content="Hello" Click="btn1_Click" />
+        <!--
+        2) 두번째 방법 : 요소
+        -->
+        <Button Click="Button_Click">
+            Hello
+        </Button>
+        <!--
+        3) 세번째 방법 : 속성 요소
+        -->
+        <Button>
+            <Button.Content>
+                Hello
+            </Button.Content>
+        </Button>
+
+        <!-- 컨텐츠가 다양한 자식 컨텐츠를 가질 수 있다. -->
+        <Button>
+            <Ellipse Name="elp1" Fill="Blue" Width="150" Height="150"/>
+        </Button>
+
+        <!-- 컨텐츠가 하나 이상의 컨텐츠를 갖고 싶다면 Panel을 사용한다. -->
+        <Button Margin="10">
+            <StackPanel>
+                <TextBlock Text="test"/>
+                <Button xmlns:aaa="clr-namespace:System;assembly=mscorlib">
+                    <aaa:DateTime>2020/11/16</aaa:DateTime>
+                </Button>
+            </StackPanel>
+        </Button>
+    </StackPanel>
+</Window>

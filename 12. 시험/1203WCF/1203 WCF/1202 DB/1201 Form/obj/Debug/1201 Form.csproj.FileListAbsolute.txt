@@ -1,0 +1,48 @@
+C:\Users\KSW\source\repos\1201 Form\1201 Form\bin\Debug\1201 Form.exe.config
+C:\Users\KSW\source\repos\1201 Form\1201 Form\bin\Debug\1201 Form.exe
+C:\Users\KSW\source\repos\1201 Form\1201 Form\bin\Debug\1201 Form.pdb
+C:\Users\KSW\source\repos\1201 Form\1201 Form\obj\Debug\1201 Form.csprojAssemblyReference.cache
+C:\Users\KSW\source\repos\1201 Form\1201 Form\obj\Debug\_1201_Form.Form1.resources
+C:\Users\KSW\source\repos\1201 Form\1201 Form\obj\Debug\_1201_Form.Form2.resources
+C:\Users\KSW\source\repos\1201 Form\1201 Form\obj\Debug\_1201_Form.Properties.Resources.resources
+C:\Users\KSW\source\repos\1201 Form\1201 Form\obj\Debug\1201 Form.csproj.GenerateResource.cache
+C:\Users\KSW\source\repos\1201 Form\1201 Form\obj\Debug\1201 Form.csproj.CoreCompileInputs.cache
+C:\Users\KSW\source\repos\1201 Form\1201 Form\obj\Debug\1201 Form.exe
+C:\Users\KSW\source\repos\1201 Form\1201 Form\obj\Debug\1201 Form.pdb
+C:\Users\KSW\source\repos\1201 Form\1201 Form\obj\Debug\_1201_Form.Form3.resources
+C:\Users\KSW\Desktop\1201 Form\1201 Form\bin\Debug\1201 Form.exe.config
+C:\Users\KSW\Desktop\1201 Form\1201 Form\bin\Debug\1201 Form.exe
+C:\Users\KSW\Desktop\1201 Form\1201 Form\bin\Debug\1201 Form.pdb
+C:\Users\KSW\Desktop\1201 Form\1201 Form\obj\Debug\1201 Form.csprojAssemblyReference.cache
+C:\Users\KSW\Desktop\1201 Form\1201 Form\obj\Debug\_1201_Form.Form1.resources
+C:\Users\KSW\Desktop\1201 Form\1201 Form\obj\Debug\_1201_Form.Form2.resources
+C:\Users\KSW\Desktop\1201 Form\1201 Form\obj\Debug\_1201_Form.Form3.resources
+C:\Users\KSW\Desktop\1201 Form\1201 Form\obj\Debug\_1201_Form.Properties.Resources.resources
+C:\Users\KSW\Desktop\1201 Form\1201 Form\obj\Debug\1201 Form.csproj.GenerateResource.cache
+C:\Users\KSW\Desktop\1201 Form\1201 Form\obj\Debug\1201 Form.csproj.CoreCompileInputs.cache
+C:\Users\KSW\Desktop\1201 Form\1201 Form\obj\Debug\1201 Form.exe
+C:\Users\KSW\Desktop\1201 Form\1201 Form\obj\Debug\1201 Form.pdb
+C:\Users\KSW\Desktop\비트 고급\12. 시험\1202 DB\1201 Form\obj\Debug\1201 Form.csprojAssemblyReference.cache
+C:\Users\KSW\Desktop\비트 고급\12. 시험\1202 DB\1201 Form\obj\Debug\_1201_Form.Form1.resources
+C:\Users\KSW\Desktop\비트 고급\12. 시험\1202 DB\1201 Form\obj\Debug\_1201_Form.Form2.resources
+C:\Users\KSW\Desktop\비트 고급\12. 시험\1202 DB\1201 Form\obj\Debug\_1201_Form.Form3.resources
+C:\Users\KSW\Desktop\비트 고급\12. 시험\1202 DB\1201 Form\obj\Debug\_1201_Form.Properties.Resources.resources
+C:\Users\KSW\Desktop\비트 고급\12. 시험\1202 DB\1201 Form\obj\Debug\1201 Form.csproj.GenerateResource.cache
+C:\Users\KSW\Desktop\비트 고급\12. 시험\1202 DB\1201 Form\obj\Debug\1201 Form.csproj.CoreCompileInputs.cache
+C:\Users\KSW\Desktop\비트 고급\12. 시험\1202 DB\1201 Form\obj\Debug\1201 Form.exe
+C:\Users\KSW\Desktop\비트 고급\12. 시험\1202 DB\1201 Form\obj\Debug\1201 Form.pdb
+C:\Users\KSW\Desktop\비트 고급\12. 시험\1202 DB\1201 Form\bin\Debug\1201 Form.exe.config
+C:\Users\KSW\Desktop\비트 고급\12. 시험\1202 DB\1201 Form\bin\Debug\1201 Form.exe
+C:\Users\KSW\Desktop\비트 고급\12. 시험\1202 DB\1201 Form\bin\Debug\1201 Form.pdb
+C:\Users\KSW\Desktop\비트 고급\12. 시험\1203 WCF\1202 DB\1201 Form\bin\Debug\1201 Form.exe.config
+C:\Users\KSW\Desktop\비트 고급\12. 시험\1203 WCF\1202 DB\1201 Form\bin\Debug\1201 Form.exe
+C:\Users\KSW\Desktop\비트 고급\12. 시험\1203 WCF\1202 DB\1201 Form\bin\Debug\1201 Form.pdb
+C:\Users\KSW\Desktop\비트 고급\12. 시험\1203 WCF\1202 DB\1201 Form\obj\Debug\1201 Form.csprojAssemblyReference.cache
+C:\Users\KSW\Desktop\비트 고급\12. 시험\1203 WCF\1202 DB\1201 Form\obj\Debug\_1201_Form.Form1.resources
+C:\Users\KSW\Desktop\비트 고급\12. 시험\1203 WCF\1202 DB\1201 Form\obj\Debug\_1201_Form.Form2.resources
+C:\Users\KSW\Desktop\비트 고급\12. 시험\1203 WCF\1202 DB\1201 Form\obj\Debug\_1201_Form.Form3.resources
+C:\Users\KSW\Desktop\비트 고급\12. 시험\1203 WCF\1202 DB\1201 Form\obj\Debug\_1201_Form.Properties.Resources.resources
+C:\Users\KSW\Desktop\비트 고급\12. 시험\1203 WCF\1202 DB\1201 Form\obj\Debug\1201 Form.csproj.GenerateResource.cache
+C:\Users\KSW\Desktop\비트 고급\12. 시험\1203 WCF\1202 DB\1201 Form\obj\Debug\1201 Form.csproj.CoreCompileInputs.cache
+C:\Users\KSW\Desktop\비트 고급\12. 시험\1203 WCF\1202 DB\1201 Form\obj\Debug\1201 Form.exe
+C:\Users\KSW\Desktop\비트 고급\12. 시험\1203 WCF\1202 DB\1201 Form\obj\Debug\1201 Form.pdb

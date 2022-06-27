@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\WPF\1124WCFService\1124WCFService\bin\Debug\1124WCFService.exe.config
+C:\Users\user\Desktop\WPF\1124WCFService\1124WCFService\bin\Debug\1124WCFService.exe
+C:\Users\user\Desktop\WPF\1124WCFService\1124WCFService\bin\Debug\1124WCFService.pdb
+C:\Users\user\Desktop\WPF\1124WCFService\1124WCFService\obj\Debug\1124WCFService.exe
+C:\Users\user\Desktop\WPF\1124WCFService\1124WCFService\obj\Debug\1124WCFService.pdb
+C:\Users\user\Desktop\WPF\1124WCFService_Sample\1124WCFService\bin\Debug\1124WCFService.exe.config
+C:\Users\user\Desktop\WPF\1124WCFService_Sample\1124WCFService\obj\Debug\1124WCFService.exe
+C:\Users\user\Desktop\WPF\1124WCFService_Sample\1124WCFService\obj\Debug\1124WCFService.pdb
+C:\Users\user\Desktop\WPF\1125_Instance\1124WCFService_Sample\1124WCFService\bin\Debug\1124WCFService.exe.config
+C:\Users\user\Desktop\WPF\1125_Instance\1124WCFService_Sample\1124WCFService\bin\Debug\1124WCFService.exe
+C:\Users\user\Desktop\WPF\1125_Instance\1124WCFService_Sample\1124WCFService\bin\Debug\1124WCFService.pdb
+C:\Users\user\Desktop\WPF\1125_Instance\1124WCFService_Sample\1124WCFService\obj\Debug\1124WCFService.exe
+C:\Users\user\Desktop\WPF\1125_Instance\1124WCFService_Sample\1124WCFService\obj\Debug\1124WCFService.pdb

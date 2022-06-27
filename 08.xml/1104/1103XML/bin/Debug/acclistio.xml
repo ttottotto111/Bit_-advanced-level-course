@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<accountios>
+ <accountio accid="1000" input="1000" output="0" balance="1000"/>
+ <accountio accid="1000" input="1000" output="0" balance="2000"/>
+ <accountio accid="1000" input="0" output="500" balance="1500"/>
+ <accountio accid="1010" input="5000" output="0" balance="5000"/>
+ <accountio accid="1010" input="5000" output="0" balance="10000"/>
+ <accountio accid="1010" input="20000" output="0" balance="30000"/>
+ <accountio accid="1010" input="0" output="15000" balance="15000"/>
+</accountios>

@@ -1,0 +1,20 @@
+﻿<Window x:Class="_1117.Window1_ListBox"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_1117"
+        mc:Ignorable="d"
+        Title="Window1_ListBox" Height="300" Width="330">
+    <StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label >이름(_N):</Label>
+            <TextBox Name="name" Width="100" />
+            <Label >전화(_P):</Label>
+            <TextBox Name="phone" Width="100" />
+        </StackPanel>
+        <Button Content="저장" Click="Button_Click" Margin="5"/>
+        <ListBox Name="listbox1" Margin="5" SelectionChanged="listbox1_SelectionChanged" />
+        <ComboBox Name="combobox1" Margin="5"/>
+    </StackPanel>
+</Window>

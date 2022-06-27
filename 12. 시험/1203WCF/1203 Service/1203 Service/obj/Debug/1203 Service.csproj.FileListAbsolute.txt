@@ -1,0 +1,7 @@
+C:\Users\KSW\Desktop\1203 Service\1203 Service\bin\Debug\1203 Service.exe.config
+C:\Users\KSW\Desktop\1203 Service\1203 Service\bin\Debug\1203 Service.exe
+C:\Users\KSW\Desktop\1203 Service\1203 Service\bin\Debug\1203 Service.pdb
+C:\Users\KSW\Desktop\1203 Service\1203 Service\obj\Debug\1203 Service.csprojAssemblyReference.cache
+C:\Users\KSW\Desktop\1203 Service\1203 Service\obj\Debug\1203 Service.csproj.CoreCompileInputs.cache
+C:\Users\KSW\Desktop\1203 Service\1203 Service\obj\Debug\1203 Service.exe
+C:\Users\KSW\Desktop\1203 Service\1203 Service\obj\Debug\1203 Service.pdb

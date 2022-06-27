@@ -1,0 +1,20 @@
+C:\Users\ㄱ\Desktop\API Sample\1019DC실습\1019DC실습\bin\Debug\1019DC실습.exe.config
+C:\Users\ㄱ\Desktop\API Sample\1019DC실습\1019DC실습\bin\Debug\1019DC실습.exe
+C:\Users\ㄱ\Desktop\API Sample\1019DC실습\1019DC실습\bin\Debug\1019DC실습.pdb
+C:\Users\ㄱ\Desktop\API Sample\1019DC실습\1019DC실습\obj\Debug\_1019DC실습.Form2.resources
+C:\Users\ㄱ\Desktop\API Sample\1019DC실습\1019DC실습\obj\Debug\_1019DC실습.Form1.resources
+C:\Users\ㄱ\Desktop\API Sample\1019DC실습\1019DC실습\obj\Debug\_1019DC실습.Properties.Resources.resources
+C:\Users\ㄱ\Desktop\API Sample\1019DC실습\1019DC실습\obj\Debug\1019DC실습.csproj.GenerateResource.Cache
+C:\Users\ㄱ\Desktop\API Sample\1019DC실습\1019DC실습\obj\Debug\1019DC실습.exe
+C:\Users\ㄱ\Desktop\API Sample\1019DC실습\1019DC실습\obj\Debug\1019DC실습.pdb
+C:\Users\KSW\Desktop\WinForm\1019\1019DC실습\bin\Debug\1019DC실습.exe.config
+C:\Users\KSW\Desktop\WinForm\1019\1019DC실습\bin\Debug\1019DC실습.exe
+C:\Users\KSW\Desktop\WinForm\1019\1019DC실습\bin\Debug\1019DC실습.pdb
+C:\Users\KSW\Desktop\WinForm\1019\1019DC실습\obj\Debug\1019DC실습.csprojAssemblyReference.cache
+C:\Users\KSW\Desktop\WinForm\1019\1019DC실습\obj\Debug\_1019DC실습.Form2.resources
+C:\Users\KSW\Desktop\WinForm\1019\1019DC실습\obj\Debug\_1019DC실습.Form1.resources
+C:\Users\KSW\Desktop\WinForm\1019\1019DC실습\obj\Debug\_1019DC실습.Properties.Resources.resources
+C:\Users\KSW\Desktop\WinForm\1019\1019DC실습\obj\Debug\1019DC실습.csproj.GenerateResource.cache
+C:\Users\KSW\Desktop\WinForm\1019\1019DC실습\obj\Debug\1019DC실습.csproj.CoreCompileInputs.cache
+C:\Users\KSW\Desktop\WinForm\1019\1019DC실습\obj\Debug\1019DC실습.exe
+C:\Users\KSW\Desktop\WinForm\1019\1019DC실습\obj\Debug\1019DC실습.pdb

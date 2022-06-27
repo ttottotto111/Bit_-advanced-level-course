@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database Name="ADOTest" Class="DataPeopleDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=localhost;Initial Catalog=ADOTest;Integrated Security=True" SettingsObjectName="ORDesigner.Properties.Settings" SettingsPropertyName="ADOTestConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tblPeople" Member="tblPeople">
+    <Type Name="tblPeople">
+      <Column Name="Name" Type="System.String" DbType="NVarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Age" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Male" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Function Name="dbo.IncSomeAge" Method="IncSomeAge">
+    <Parameter Name="Name" Parameter="name" Type="System.String" DbType="NVarChar(10)" />
+    <Parameter Name="Age" Parameter="age" Type="System.Int32" DbType="Int" Direction="InOut" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>

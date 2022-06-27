@@ -1,0 +1,19 @@
+C:\Users\user\Desktop\WPF\1124WCFPictureClient\1124WCFPictureClient\bin\Debug\1124WCFPictureClient.exe.config
+C:\Users\user\Desktop\WPF\1124WCFPictureClient\1124WCFPictureClient\bin\Debug\1124WCFPictureClient.exe
+C:\Users\user\Desktop\WPF\1124WCFPictureClient\1124WCFPictureClient\bin\Debug\1124WCFPictureClient.pdb
+C:\Users\user\Desktop\WPF\1124WCFPictureClient\1124WCFPictureClient\obj\Debug\_1124WCFPictureClient.Form1.resources
+C:\Users\user\Desktop\WPF\1124WCFPictureClient\1124WCFPictureClient\obj\Debug\_1124WCFPictureClient.Properties.Resources.resources
+C:\Users\user\Desktop\WPF\1124WCFPictureClient\1124WCFPictureClient\obj\Debug\1124WCFPictureClient.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\WPF\1124WCFPictureClient\1124WCFPictureClient\obj\Debug\1124WCFPictureClient.exe
+C:\Users\user\Desktop\WPF\1124WCFPictureClient\1124WCFPictureClient\obj\Debug\1124WCFPictureClient.pdb
+C:\Users\user\Desktop\WPF\1124WCFPictureClient\1124WCFPictureClient\obj\Debug\1124WCFPictureClient.csprojResolveAssemblyReference.cache
+C:\Users\KSW\Desktop\비트 고급\10.WCF\1124PictureService\1124WCFPictureClient\1124WCFPictureClient\bin\Debug\1124WCFPictureClient.exe.config
+C:\Users\KSW\Desktop\비트 고급\10.WCF\1124PictureService\1124WCFPictureClient\1124WCFPictureClient\bin\Debug\1124WCFPictureClient.exe
+C:\Users\KSW\Desktop\비트 고급\10.WCF\1124PictureService\1124WCFPictureClient\1124WCFPictureClient\bin\Debug\1124WCFPictureClient.pdb
+C:\Users\KSW\Desktop\비트 고급\10.WCF\1124PictureService\1124WCFPictureClient\1124WCFPictureClient\obj\Debug\1124WCFPictureClient.csprojAssemblyReference.cache
+C:\Users\KSW\Desktop\비트 고급\10.WCF\1124PictureService\1124WCFPictureClient\1124WCFPictureClient\obj\Debug\_1124WCFPictureClient.Form1.resources
+C:\Users\KSW\Desktop\비트 고급\10.WCF\1124PictureService\1124WCFPictureClient\1124WCFPictureClient\obj\Debug\_1124WCFPictureClient.Properties.Resources.resources
+C:\Users\KSW\Desktop\비트 고급\10.WCF\1124PictureService\1124WCFPictureClient\1124WCFPictureClient\obj\Debug\1124WCFPictureClient.csproj.GenerateResource.cache
+C:\Users\KSW\Desktop\비트 고급\10.WCF\1124PictureService\1124WCFPictureClient\1124WCFPictureClient\obj\Debug\1124WCFPictureClient.csproj.CoreCompileInputs.cache
+C:\Users\KSW\Desktop\비트 고급\10.WCF\1124PictureService\1124WCFPictureClient\1124WCFPictureClient\obj\Debug\1124WCFPictureClient.exe
+C:\Users\KSW\Desktop\비트 고급\10.WCF\1124PictureService\1124WCFPictureClient\1124WCFPictureClient\obj\Debug\1124WCFPictureClient.pdb

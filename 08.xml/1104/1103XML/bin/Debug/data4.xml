@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--students 데이터 리스트-->
+<students>
+<student>
+<id>1</id>
+<kor>100</kor>
+<eng>90</eng>
+<mat>80</mat>
+<average>90.0</average>
+</student>
+<student>
+<id>2</id>
+<kor>95</kor>
+<eng>85</eng>
+<mat>75</mat>
+<average>85.0</average>
+</student>
+<student>
+<id>3</id>
+<kor>90</kor>
+<eng>100</eng>
+<mat>80</mat>
+<average>90.0</average>
+</student>
+</students>

@@ -1,0 +1,90 @@
+﻿<Window x:Class="_1119.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_1119"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="800" Background="LightGray" Closed="Window_Closed">
+    <TabControl Margin="5">
+        <!-- 첫번째 탭[계좌등록] -->
+        <TabItem>
+            <TabItem.Header>
+                <StackPanel Orientation="Horizontal">
+                    <Ellipse Width="10" Height="10" Fill="BurlyWood"/>
+                    <TextBlock>계좌등록</TextBlock>
+                </StackPanel>
+            </TabItem.Header>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+                <!-- 좌측 -->
+                <StackPanel Grid.Column="0" Background="Turquoise">
+                    <Grid >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                    </Grid>
+                    <Label Grid.Column="0" Margin="2" >
+                        <Bold>계좌 생성 정보</Bold>
+                    </Label>
+                    <StackPanel Grid.Column="1" Margin="2" Orientation="Horizontal">
+                        <Label>계좌번호(_N):</Label>
+                        <TextBox Name="accnum"  Margin="2" Width="100"/>
+                        <Button Content="계좌번호 발급" Margin="6,2" Click="Button_Click"/>
+                    </StackPanel>
+                    <StackPanel Grid.Column="2" Margin="2" Orientation="Horizontal">
+                        <Label>고객이름(_N):</Label>
+                        <TextBox Name="accname"  Margin="2" Width="100"/>
+                    </StackPanel>
+                    <StackPanel Grid.Column="3" Margin="2" Orientation="Horizontal">
+                        <Label>입 금 액(_M):</Label>
+                        <TextBox Name="accnmoney"  Margin="2" Width="100"/>
+                    </StackPanel>
+                    <StackPanel Grid.Column="4" Margin="2" Orientation="Horizontal" HorizontalAlignment="Center" >
+                        <Button Content="저장" Margin="2" Width="100" Click="Button_Click_1"/>
+                    </StackPanel>
+                </StackPanel>
+                <!-- 우측 -->
+                <StackPanel Grid.Column="1">
+                    <Label Grid.Column="0" Margin="2" >
+                        <Bold>저장 결과</Bold>
+                    </Label>
+                    <Border Grid.Column="1" Margin="2" BorderBrush="Black" BorderThickness="2">
+                        <FlowDocumentReader>
+                            <FlowDocument Name="flowDocument" />
+                        </FlowDocumentReader>
+                    </Border>
+                </StackPanel>
+            </Grid>
+        </TabItem>
+        <!-- 두번째 탭[계좌입출력] -->
+        <TabItem>
+            <TabItem.Header>
+                <StackPanel Orientation="Horizontal">
+                    <Ellipse Width="10" Height="10" Fill="BurlyWood"/>
+                    <TextBlock>계좌입출력</TextBlock>
+                </StackPanel>
+            </TabItem.Header>
+            <TextBlock Text="{Binding ElementName=textBox1, Path=Text}"/>
+        </TabItem>
+        <!-- 세번째 탭[거래정보보기] -->
+        <TabItem>
+            <TabItem.Header>
+                <StackPanel Orientation="Horizontal">
+                    <Ellipse Width="10" Height="10" Fill="BurlyWood"/>
+                    <TextBlock>거래정보보기</TextBlock>
+                </StackPanel>
+            </TabItem.Header>
+            <StackPanel>
+                <TextBlock>Enter some text</TextBlock>
+                <TextBox Name="textBox2" Width="50"/>
+            </StackPanel>
+        </TabItem>
+    </TabControl>
+</Window>

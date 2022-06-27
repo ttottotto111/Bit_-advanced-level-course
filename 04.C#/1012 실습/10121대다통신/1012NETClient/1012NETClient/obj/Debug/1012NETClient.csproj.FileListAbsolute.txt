@@ -1,0 +1,13 @@
+C:\Users\ㄱ\Desktop\API Sample\1012NETClient\1012NETClient\bin\Debug\1012NETClient.exe.config
+C:\Users\ㄱ\Desktop\1012_실습\1012NETClient\1012NETClient\bin\Debug\1012NETClient.exe.config
+C:\Users\ㄱ\Desktop\1012_실습\1012NETClient\1012NETClient\bin\Debug\1012NETClient.exe
+C:\Users\ㄱ\Desktop\1012_실습\1012NETClient\1012NETClient\bin\Debug\1012NETClient.pdb
+C:\Users\ㄱ\Desktop\1012_실습\1012NETClient\1012NETClient\obj\Debug\1012NETClient.exe
+C:\Users\ㄱ\Desktop\1012_실습\1012NETClient\1012NETClient\obj\Debug\1012NETClient.pdb
+C:\Users\KSW\Desktop\cs\1012 실습\10121대다통신\1012NETClient\1012NETClient\bin\Debug\1012NETClient.exe.config
+C:\Users\KSW\Desktop\cs\1012 실습\10121대다통신\1012NETClient\1012NETClient\bin\Debug\1012NETClient.exe
+C:\Users\KSW\Desktop\cs\1012 실습\10121대다통신\1012NETClient\1012NETClient\bin\Debug\1012NETClient.pdb
+C:\Users\KSW\Desktop\cs\1012 실습\10121대다통신\1012NETClient\1012NETClient\obj\Debug\1012NETClient.csprojAssemblyReference.cache
+C:\Users\KSW\Desktop\cs\1012 실습\10121대다통신\1012NETClient\1012NETClient\obj\Debug\1012NETClient.csproj.CoreCompileInputs.cache
+C:\Users\KSW\Desktop\cs\1012 실습\10121대다통신\1012NETClient\1012NETClient\obj\Debug\1012NETClient.exe
+C:\Users\KSW\Desktop\cs\1012 실습\10121대다통신\1012NETClient\1012NETClient\obj\Debug\1012NETClient.pdb

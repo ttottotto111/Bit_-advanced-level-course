@@ -1,0 +1,10 @@
+﻿<Window x:Class="_1116.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_1116"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Button Width="100" Height="25" Content="클릭" Click="Button_Click" />
+</Window>

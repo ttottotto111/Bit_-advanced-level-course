@@ -1,0 +1,10 @@
+C:\Users\KSW\source\repos\1125 Client\1125 Client\obj\Debug\1125 Client.csprojAssemblyReference.cache
+C:\Users\KSW\source\repos\1125 Client\1125 Client\obj\Debug\_1125_Client.Form1.resources
+C:\Users\KSW\source\repos\1125 Client\1125 Client\obj\Debug\_1125_Client.Properties.Resources.resources
+C:\Users\KSW\source\repos\1125 Client\1125 Client\obj\Debug\1125 Client.csproj.GenerateResource.cache
+C:\Users\KSW\source\repos\1125 Client\1125 Client\obj\Debug\1125 Client.csproj.CoreCompileInputs.cache
+C:\Users\KSW\source\repos\1125 Client\1125 Client\bin\Debug\1125 Client.exe.config
+C:\Users\KSW\source\repos\1125 Client\1125 Client\bin\Debug\1125 Client.exe
+C:\Users\KSW\source\repos\1125 Client\1125 Client\bin\Debug\1125 Client.pdb
+C:\Users\KSW\source\repos\1125 Client\1125 Client\obj\Debug\1125 Client.exe
+C:\Users\KSW\source\repos\1125 Client\1125 Client\obj\Debug\1125 Client.pdb

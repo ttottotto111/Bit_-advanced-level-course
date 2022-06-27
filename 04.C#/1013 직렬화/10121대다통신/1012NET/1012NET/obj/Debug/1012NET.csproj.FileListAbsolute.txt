@@ -1,0 +1,24 @@
+C:\Users\ㄱ\Desktop\API Sample\1012NET\1012NET\bin\Debug\1012NET.exe.config
+C:\Users\ㄱ\Desktop\API Sample\1012NET\1012NET\bin\Debug\1012NET.exe
+C:\Users\ㄱ\Desktop\API Sample\1012NET\1012NET\bin\Debug\1012NET.pdb
+C:\Users\ㄱ\Desktop\API Sample\1012NET\1012NET\obj\Debug\1012NET.exe
+C:\Users\ㄱ\Desktop\API Sample\1012NET\1012NET\obj\Debug\1012NET.pdb
+C:\Users\ㄱ\Desktop\1012_실습\1012NET\1012NET\bin\Debug\1012NET.exe.config
+C:\Users\ㄱ\Desktop\1012_실습\1012NET\1012NET\bin\Debug\1012NET.exe
+C:\Users\ㄱ\Desktop\1012_실습\1012NET\1012NET\bin\Debug\1012NET.pdb
+C:\Users\ㄱ\Desktop\1012_실습\1012NET\1012NET\obj\Debug\1012NET.exe
+C:\Users\ㄱ\Desktop\1012_실습\1012NET\1012NET\obj\Debug\1012NET.pdb
+C:\Users\KSW\Desktop\cs\1012 실습\10121대다통신\1012NET\1012NET\bin\Debug\1012NET.exe.config
+C:\Users\KSW\Desktop\cs\1012 실습\10121대다통신\1012NET\1012NET\bin\Debug\1012NET.exe
+C:\Users\KSW\Desktop\cs\1012 실습\10121대다통신\1012NET\1012NET\bin\Debug\1012NET.pdb
+C:\Users\KSW\Desktop\cs\1012 실습\10121대다통신\1012NET\1012NET\obj\Debug\1012NET.csprojAssemblyReference.cache
+C:\Users\KSW\Desktop\cs\1012 실습\10121대다통신\1012NET\1012NET\obj\Debug\1012NET.csproj.CoreCompileInputs.cache
+C:\Users\KSW\Desktop\cs\1012 실습\10121대다통신\1012NET\1012NET\obj\Debug\1012NET.exe
+C:\Users\KSW\Desktop\cs\1012 실습\10121대다통신\1012NET\1012NET\obj\Debug\1012NET.pdb
+C:\Users\KSW\Desktop\비트 고급\04.C#\1013 직렬화\10121대다통신\1012NET\1012NET\bin\Debug\1012NET.exe.config
+C:\Users\KSW\Desktop\비트 고급\04.C#\1013 직렬화\10121대다통신\1012NET\1012NET\bin\Debug\1012NET.exe
+C:\Users\KSW\Desktop\비트 고급\04.C#\1013 직렬화\10121대다통신\1012NET\1012NET\bin\Debug\1012NET.pdb
+C:\Users\KSW\Desktop\비트 고급\04.C#\1013 직렬화\10121대다통신\1012NET\1012NET\obj\Debug\1012NET.csprojAssemblyReference.cache
+C:\Users\KSW\Desktop\비트 고급\04.C#\1013 직렬화\10121대다통신\1012NET\1012NET\obj\Debug\1012NET.csproj.CoreCompileInputs.cache
+C:\Users\KSW\Desktop\비트 고급\04.C#\1013 직렬화\10121대다통신\1012NET\1012NET\obj\Debug\1012NET.exe
+C:\Users\KSW\Desktop\비트 고급\04.C#\1013 직렬화\10121대다통신\1012NET\1012NET\obj\Debug\1012NET.pdb

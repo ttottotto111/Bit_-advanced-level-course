@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\WPF\1124PictureService\1124PictureService\bin\Debug\1124PictureService.exe.config
+C:\Users\user\Desktop\WPF\1124PictureService\1124PictureService\bin\Debug\1124PictureService.exe
+C:\Users\user\Desktop\WPF\1124PictureService\1124PictureService\bin\Debug\1124PictureService.pdb
+C:\Users\user\Desktop\WPF\1124PictureService\1124PictureService\obj\Debug\1124PictureService.exe
+C:\Users\user\Desktop\WPF\1124PictureService\1124PictureService\obj\Debug\1124PictureService.pdb

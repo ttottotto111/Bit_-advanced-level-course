@@ -1,0 +1,10 @@
+C:\Users\KSW\Desktop\WinForm\1021\1021\bin\Debug\1021.exe.config
+C:\Users\KSW\Desktop\WinForm\1021\1021\bin\Debug\1021.exe
+C:\Users\KSW\Desktop\WinForm\1021\1021\bin\Debug\1021.pdb
+C:\Users\KSW\Desktop\WinForm\1021\1021\obj\Debug\1021.csprojAssemblyReference.cache
+C:\Users\KSW\Desktop\WinForm\1021\1021\obj\Debug\_1021.Form1.resources
+C:\Users\KSW\Desktop\WinForm\1021\1021\obj\Debug\_1021.Properties.Resources.resources
+C:\Users\KSW\Desktop\WinForm\1021\1021\obj\Debug\1021.csproj.GenerateResource.cache
+C:\Users\KSW\Desktop\WinForm\1021\1021\obj\Debug\1021.csproj.CoreCompileInputs.cache
+C:\Users\KSW\Desktop\WinForm\1021\1021\obj\Debug\1021.exe
+C:\Users\KSW\Desktop\WinForm\1021\1021\obj\Debug\1021.pdb

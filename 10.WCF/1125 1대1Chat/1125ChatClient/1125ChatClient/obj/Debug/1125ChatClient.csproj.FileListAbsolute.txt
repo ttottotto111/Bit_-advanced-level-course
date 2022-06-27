@@ -1,0 +1,20 @@
+C:\Users\KSW\Desktop\1125ChatClient\1125ChatClient\bin\Debug\1125ChatClient.exe.config
+C:\Users\KSW\Desktop\1125ChatClient\1125ChatClient\bin\Debug\1125ChatClient.exe
+C:\Users\KSW\Desktop\1125ChatClient\1125ChatClient\bin\Debug\1125ChatClient.pdb
+C:\Users\KSW\Desktop\1125ChatClient\1125ChatClient\obj\Debug\1125ChatClient.csprojAssemblyReference.cache
+C:\Users\KSW\Desktop\1125ChatClient\1125ChatClient\obj\Debug\_1125ChatClient.Form1.resources
+C:\Users\KSW\Desktop\1125ChatClient\1125ChatClient\obj\Debug\_1125ChatClient.Properties.Resources.resources
+C:\Users\KSW\Desktop\1125ChatClient\1125ChatClient\obj\Debug\1125ChatClient.csproj.GenerateResource.cache
+C:\Users\KSW\Desktop\1125ChatClient\1125ChatClient\obj\Debug\1125ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\KSW\Desktop\1125ChatClient\1125ChatClient\obj\Debug\1125ChatClient.exe
+C:\Users\KSW\Desktop\1125ChatClient\1125ChatClient\obj\Debug\1125ChatClient.pdb
+C:\Users\KSW\Desktop\비트교육\비트 고급\10.WCF\1125 1대1Chat\1125ChatClient\1125ChatClient\bin\Debug\1125ChatClient.exe.config
+C:\Users\KSW\Desktop\비트교육\비트 고급\10.WCF\1125 1대1Chat\1125ChatClient\1125ChatClient\bin\Debug\1125ChatClient.exe
+C:\Users\KSW\Desktop\비트교육\비트 고급\10.WCF\1125 1대1Chat\1125ChatClient\1125ChatClient\bin\Debug\1125ChatClient.pdb
+C:\Users\KSW\Desktop\비트교육\비트 고급\10.WCF\1125 1대1Chat\1125ChatClient\1125ChatClient\obj\Debug\1125ChatClient.csprojAssemblyReference.cache
+C:\Users\KSW\Desktop\비트교육\비트 고급\10.WCF\1125 1대1Chat\1125ChatClient\1125ChatClient\obj\Debug\_1125ChatClient.Form1.resources
+C:\Users\KSW\Desktop\비트교육\비트 고급\10.WCF\1125 1대1Chat\1125ChatClient\1125ChatClient\obj\Debug\_1125ChatClient.Properties.Resources.resources
+C:\Users\KSW\Desktop\비트교육\비트 고급\10.WCF\1125 1대1Chat\1125ChatClient\1125ChatClient\obj\Debug\1125ChatClient.csproj.GenerateResource.cache
+C:\Users\KSW\Desktop\비트교육\비트 고급\10.WCF\1125 1대1Chat\1125ChatClient\1125ChatClient\obj\Debug\1125ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\KSW\Desktop\비트교육\비트 고급\10.WCF\1125 1대1Chat\1125ChatClient\1125ChatClient\obj\Debug\1125ChatClient.exe
+C:\Users\KSW\Desktop\비트교육\비트 고급\10.WCF\1125 1대1Chat\1125ChatClient\1125ChatClient\obj\Debug\1125ChatClient.pdb

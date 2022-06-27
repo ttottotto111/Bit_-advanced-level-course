@@ -1,0 +1,10 @@
+C:\Users\KSW\Desktop\ADO.NET\1029\1029\bin\Debug\1029.exe.config
+C:\Users\KSW\Desktop\ADO.NET\1029\1029\bin\Debug\1029.exe
+C:\Users\KSW\Desktop\ADO.NET\1029\1029\bin\Debug\1029.pdb
+C:\Users\KSW\Desktop\ADO.NET\1029\1029\obj\Debug\1029.csprojAssemblyReference.cache
+C:\Users\KSW\Desktop\ADO.NET\1029\1029\obj\Debug\_1029.Form1.resources
+C:\Users\KSW\Desktop\ADO.NET\1029\1029\obj\Debug\_1029.Properties.Resources.resources
+C:\Users\KSW\Desktop\ADO.NET\1029\1029\obj\Debug\1029.csproj.GenerateResource.cache
+C:\Users\KSW\Desktop\ADO.NET\1029\1029\obj\Debug\1029.csproj.CoreCompileInputs.cache
+C:\Users\KSW\Desktop\ADO.NET\1029\1029\obj\Debug\1029.exe
+C:\Users\KSW\Desktop\ADO.NET\1029\1029\obj\Debug\1029.pdb

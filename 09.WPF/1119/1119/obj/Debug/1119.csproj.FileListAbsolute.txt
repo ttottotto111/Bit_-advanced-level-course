@@ -1,0 +1,30 @@
+C:\Users\user\Desktop\WPF\1119\1119\bin\Debug\1119.exe.config
+C:\Users\user\Desktop\WPF\1119\1119\bin\Debug\1119.exe
+C:\Users\user\Desktop\WPF\1119\1119\bin\Debug\1119.pdb
+C:\Users\user\Desktop\WPF\1119\1119\obj\Debug\1119.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\WPF\1119\1119\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\WPF\1119\1119\obj\Debug\App.g.cs
+C:\Users\user\Desktop\WPF\1119\1119\obj\Debug\1119_MarkupCompile.cache
+C:\Users\user\Desktop\WPF\1119\1119\obj\Debug\1119_MarkupCompile.lref
+C:\Users\user\Desktop\WPF\1119\1119\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\WPF\1119\1119\obj\Debug\1119.g.resources
+C:\Users\user\Desktop\WPF\1119\1119\obj\Debug\_1119.Properties.Resources.resources
+C:\Users\user\Desktop\WPF\1119\1119\obj\Debug\1119.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\WPF\1119\1119\obj\Debug\1119.exe
+C:\Users\user\Desktop\WPF\1119\1119\obj\Debug\1119.pdb
+C:\Users\KSW\Desktop\비트 고급\9.WPF\1119\1119\bin\Debug\1119.exe.config
+C:\Users\KSW\Desktop\비트 고급\9.WPF\1119\1119\bin\Debug\1119.exe
+C:\Users\KSW\Desktop\비트 고급\9.WPF\1119\1119\bin\Debug\1119.pdb
+C:\Users\KSW\Desktop\비트 고급\9.WPF\1119\1119\obj\Debug\1119.csprojAssemblyReference.cache
+C:\Users\KSW\Desktop\비트 고급\9.WPF\1119\1119\obj\Debug\1119.csproj.ResolveComReference.cache
+C:\Users\KSW\Desktop\비트 고급\9.WPF\1119\1119\obj\Debug\MainWindow.g.cs
+C:\Users\KSW\Desktop\비트 고급\9.WPF\1119\1119\obj\Debug\App.g.cs
+C:\Users\KSW\Desktop\비트 고급\9.WPF\1119\1119\obj\Debug\1119_MarkupCompile.cache
+C:\Users\KSW\Desktop\비트 고급\9.WPF\1119\1119\obj\Debug\1119_MarkupCompile.lref
+C:\Users\KSW\Desktop\비트 고급\9.WPF\1119\1119\obj\Debug\MainWindow.baml
+C:\Users\KSW\Desktop\비트 고급\9.WPF\1119\1119\obj\Debug\1119.g.resources
+C:\Users\KSW\Desktop\비트 고급\9.WPF\1119\1119\obj\Debug\_1119.Properties.Resources.resources
+C:\Users\KSW\Desktop\비트 고급\9.WPF\1119\1119\obj\Debug\1119.csproj.GenerateResource.cache
+C:\Users\KSW\Desktop\비트 고급\9.WPF\1119\1119\obj\Debug\1119.csproj.CoreCompileInputs.cache
+C:\Users\KSW\Desktop\비트 고급\9.WPF\1119\1119\obj\Debug\1119.exe
+C:\Users\KSW\Desktop\비트 고급\9.WPF\1119\1119\obj\Debug\1119.pdb

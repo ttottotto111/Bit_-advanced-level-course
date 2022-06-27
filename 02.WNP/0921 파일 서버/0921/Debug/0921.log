@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\Users\KSW\Desktop\0921\0921\소스.cpp(62,15): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+  0921.vcxproj -> C:\Users\KSW\Desktop\0921\Debug\0921.exe

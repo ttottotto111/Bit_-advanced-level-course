@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\WPF\1125UseInstance\1125UseInstance\bin\Debug\1125UseInstance.exe.config
+C:\Users\user\Desktop\WPF\1125UseInstance\1125UseInstance\bin\Debug\1125UseInstance.exe
+C:\Users\user\Desktop\WPF\1125UseInstance\1125UseInstance\bin\Debug\1125UseInstance.pdb
+C:\Users\user\Desktop\WPF\1125UseInstance\1125UseInstance\obj\Debug\1125UseInstance.exe
+C:\Users\user\Desktop\WPF\1125UseInstance\1125UseInstance\obj\Debug\1125UseInstance.pdb

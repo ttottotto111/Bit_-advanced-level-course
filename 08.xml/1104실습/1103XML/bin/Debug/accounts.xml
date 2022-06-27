@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<accounts>
+ <account accid="1000" name="홍길동" balance="1500"/>
+ <account accid="1010" name="김길동" balance="15000"/>
+</accounts>

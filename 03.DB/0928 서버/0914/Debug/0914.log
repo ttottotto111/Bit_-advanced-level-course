@@ -1,0 +1,8 @@
+﻿  app.cpp
+  control.cpp
+  wb_db.cpp
+  wbserver.cpp
+  소스.cpp
+  코드를 생성하고 있습니다...
+C:\Users\KSW\Desktop\데이터베이스\0928 서버\0914\wb_db.cpp(118): warning C4700: 초기화되지 않은 'i' 지역 변수를 사용했습니다.
+  0914.vcxproj -> C:\Users\KSW\Desktop\데이터베이스\0928 서버\Debug\0914.exe

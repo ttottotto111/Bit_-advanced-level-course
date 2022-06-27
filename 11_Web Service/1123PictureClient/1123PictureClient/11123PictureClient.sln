@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11123PictureClient", "11123PictureClient\11123PictureClient.csproj", "{E032DB3D-C3C5-46D9-BB26-C0F66C35E588}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E032DB3D-C3C5-46D9-BB26-C0F66C35E588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E032DB3D-C3C5-46D9-BB26-C0F66C35E588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E032DB3D-C3C5-46D9-BB26-C0F66C35E588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E032DB3D-C3C5-46D9-BB26-C0F66C35E588}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

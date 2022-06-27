@@ -1,0 +1,7 @@
+C:\Users\KSW\Desktop\비트 고급\11_Web Service\1123\1123\bin\Debug\1123.exe.config
+C:\Users\KSW\Desktop\비트 고급\11_Web Service\1123\1123\bin\Debug\1123.exe
+C:\Users\KSW\Desktop\비트 고급\11_Web Service\1123\1123\bin\Debug\1123.pdb
+C:\Users\KSW\Desktop\비트 고급\11_Web Service\1123\1123\obj\Debug\1123.csprojAssemblyReference.cache
+C:\Users\KSW\Desktop\비트 고급\11_Web Service\1123\1123\obj\Debug\1123.csproj.CoreCompileInputs.cache
+C:\Users\KSW\Desktop\비트 고급\11_Web Service\1123\1123\obj\Debug\1123.exe
+C:\Users\KSW\Desktop\비트 고급\11_Web Service\1123\1123\obj\Debug\1123.pdb

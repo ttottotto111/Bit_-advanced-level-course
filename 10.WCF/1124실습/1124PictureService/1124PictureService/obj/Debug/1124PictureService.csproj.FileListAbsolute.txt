@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\WPF\1124PictureService\1124PictureService\bin\Debug\1124PictureService.exe.config
+C:\Users\user\Desktop\WPF\1124PictureService\1124PictureService\bin\Debug\1124PictureService.exe
+C:\Users\user\Desktop\WPF\1124PictureService\1124PictureService\bin\Debug\1124PictureService.pdb
+C:\Users\user\Desktop\WPF\1124PictureService\1124PictureService\obj\Debug\1124PictureService.exe
+C:\Users\user\Desktop\WPF\1124PictureService\1124PictureService\obj\Debug\1124PictureService.pdb
+C:\Users\KSW\Desktop\비트 고급\10.WCF\1124실습\1124PictureService\1124PictureService\bin\Debug\1124PictureService.exe.config
+C:\Users\KSW\Desktop\비트 고급\10.WCF\1124실습\1124PictureService\1124PictureService\bin\Debug\1124PictureService.exe
+C:\Users\KSW\Desktop\비트 고급\10.WCF\1124실습\1124PictureService\1124PictureService\bin\Debug\1124PictureService.pdb
+C:\Users\KSW\Desktop\비트 고급\10.WCF\1124실습\1124PictureService\1124PictureService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KSW\Desktop\비트 고급\10.WCF\1124실습\1124PictureService\1124PictureService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KSW\Desktop\비트 고급\10.WCF\1124실습\1124PictureService\1124PictureService\obj\Debug\1124PictureService.csprojAssemblyReference.cache
+C:\Users\KSW\Desktop\비트 고급\10.WCF\1124실습\1124PictureService\1124PictureService\obj\Debug\1124PictureService.csproj.CoreCompileInputs.cache
+C:\Users\KSW\Desktop\비트 고급\10.WCF\1124실습\1124PictureService\1124PictureService\obj\Debug\1124PictureService.csproj.CopyComplete
+C:\Users\KSW\Desktop\비트 고급\10.WCF\1124실습\1124PictureService\1124PictureService\obj\Debug\1124PictureService.exe
+C:\Users\KSW\Desktop\비트 고급\10.WCF\1124실습\1124PictureService\1124PictureService\obj\Debug\1124PictureService.pdb

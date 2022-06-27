@@ -1,0 +1,12 @@
+C:\Users\ㄱ\Desktop\API Sample\1007실습\1007실습\bin\Debug\1007실습.exe.config
+C:\Users\ㄱ\Desktop\API Sample\1007실습\1007실습\bin\Debug\1007실습.exe
+C:\Users\ㄱ\Desktop\API Sample\1007실습\1007실습\bin\Debug\1007실습.pdb
+C:\Users\ㄱ\Desktop\API Sample\1007실습\1007실습\obj\Debug\1007실습.exe
+C:\Users\ㄱ\Desktop\API Sample\1007실습\1007실습\obj\Debug\1007실습.pdb
+C:\Users\KSW\Desktop\cs\1007\1007실습\1007실습\bin\Debug\1007실습.exe.config
+C:\Users\KSW\Desktop\cs\1007\1007실습\1007실습\bin\Debug\1007실습.exe
+C:\Users\KSW\Desktop\cs\1007\1007실습\1007실습\bin\Debug\1007실습.pdb
+C:\Users\KSW\Desktop\cs\1007\1007실습\1007실습\obj\Debug\1007실습.csprojAssemblyReference.cache
+C:\Users\KSW\Desktop\cs\1007\1007실습\1007실습\obj\Debug\1007실습.csproj.CoreCompileInputs.cache
+C:\Users\KSW\Desktop\cs\1007\1007실습\1007실습\obj\Debug\1007실습.exe
+C:\Users\KSW\Desktop\cs\1007\1007실습\1007실습\obj\Debug\1007실습.pdb

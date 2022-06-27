@@ -1,0 +1,66 @@
+1. 오라클 설치
+
+2. 샘플 계정(사용할 수 없도록 잠겨있다) 푸는 방법 : scott/tiger
+
+    - SQL PLUS 실행(오라클 서버와 연동되는 클라이언트 프로그램)
+    - system 계정으로 로그인 : system/1111
+    - 명령어 입력 
+      SQL> alter user scott identified by tiger account unlock; 
+
+    - 계정 풀린 것 화인
+       conn scott/tiger;     disconnect;
+   
+3. 샘플 계정이 갖고 있는 테이블 몇개 있다. 
+    emp : 회사원 
+    dept : 부서
+    bonus : 회사원의 보너스 정보
+    salgrade  : 연봉등급
+    SQL> desc emp;    // emp의 스키마 정보를 요청하는 명령.   
+    
+4. 데이터 관리를 DBMS(오라클, MSSQL, MYSQL -> Maria DB)에게 맞김.
+    DBMS --> select, update, delete, insert 
+    DBMS와 대화를 하기 위한 언어(표준) : SQL(Struct Query Language)
+
+5. 쿼리문 예
+   select * from emp;   // * : 모두, emp테이블에 있는 모든 데이터를 반환
+                                      단, 모든 컬럼들을 반환.
+
+   select empno, ename, sal from emp;
+
+   //명령어
+   set linesize 120
+
+-------------------------------------------------------------------------------
+[키워드 대소문자 구분 없다. 단, 데이터는 있다]
+emp(회사원) :  empno, ename, job, mgr, hiredate, sal, comm, deptno
+
+
+[select]
+
+-- 테이블에 저장된 전체 로우데이터가 반환 
+select 컬럼리스트
+from  테이블명
+
+-- 조건에 맞는 로우데이터만 반환 
+select
+from 
+where 조건
+order by 정렬(컬럼명)
+
+SQL 타입 
+1) 숫자(정수,실수)
+2) 문자(작은따옴표로 표현, 문자열 포함) - 대소문자를 구분
+3) 날짜(작은따옴표로 표현)
+
+--------------------- 조인 --------------------------------
+emp : 8컬럼,  14로우데이터
+dept : 3컬럼,   4 로우데이터
+
+ select * from emp, dept;   
+ 결과의 컬럼은 몇개일까요? 11개.
+
+
+
+
+
+

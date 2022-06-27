@@ -1,0 +1,16 @@
+C:\Users\KSW\Desktop\비트 고급\9.WPF\1118\1118\bin\Debug\1118.exe.config
+C:\Users\KSW\Desktop\비트 고급\9.WPF\1118\1118\bin\Debug\1118.exe
+C:\Users\KSW\Desktop\비트 고급\9.WPF\1118\1118\bin\Debug\1118.pdb
+C:\Users\KSW\Desktop\비트 고급\9.WPF\1118\1118\obj\Debug\1118.csprojAssemblyReference.cache
+C:\Users\KSW\Desktop\비트 고급\9.WPF\1118\1118\obj\Debug\MainWindow.g.cs
+C:\Users\KSW\Desktop\비트 고급\9.WPF\1118\1118\obj\Debug\App.g.cs
+C:\Users\KSW\Desktop\비트 고급\9.WPF\1118\1118\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\KSW\Desktop\비트 고급\9.WPF\1118\1118\obj\Debug\1118_MarkupCompile.cache
+C:\Users\KSW\Desktop\비트 고급\9.WPF\1118\1118\obj\Debug\1118_MarkupCompile.lref
+C:\Users\KSW\Desktop\비트 고급\9.WPF\1118\1118\obj\Debug\MainWindow.baml
+C:\Users\KSW\Desktop\비트 고급\9.WPF\1118\1118\obj\Debug\1118.g.resources
+C:\Users\KSW\Desktop\비트 고급\9.WPF\1118\1118\obj\Debug\_1118.Properties.Resources.resources
+C:\Users\KSW\Desktop\비트 고급\9.WPF\1118\1118\obj\Debug\1118.csproj.GenerateResource.cache
+C:\Users\KSW\Desktop\비트 고급\9.WPF\1118\1118\obj\Debug\1118.csproj.CoreCompileInputs.cache
+C:\Users\KSW\Desktop\비트 고급\9.WPF\1118\1118\obj\Debug\1118.exe
+C:\Users\KSW\Desktop\비트 고급\9.WPF\1118\1118\obj\Debug\1118.pdb

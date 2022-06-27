@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="cd44af45-5029-4faf-8153-98ee49fce6e7" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8080/wcf/example/StudentManager" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="StudentManager.disco" MetadataType="Disco" ID="6968baaa-b589-470c-96fa-145101872def" SourceId="1" SourceUrl="http://localhost:8080/wcf/example/StudentManager?disco" />
+    <MetadataFile FileName="StudentManager.xsd" MetadataType="Schema" ID="6d322bda-073f-4871-8bde-ef3d53e0a8ea" SourceId="1" SourceUrl="http://localhost:8080/wcf/example/StudentManager?xsd=xsd1" />
+    <MetadataFile FileName="StuManager.wsdl" MetadataType="Wsdl" ID="ee95e447-2791-4c57-b76d-327e3af1b86b" SourceId="1" SourceUrl="http://localhost:8080/wcf/example/StudentManager?wsdl" />
+    <MetadataFile FileName="StudentManager1.xsd" MetadataType="Schema" ID="008d8fcb-0d9f-4cc2-bbcf-c474c050741d" SourceId="1" SourceUrl="http://localhost:8080/wcf/example/StudentManager?xsd=xsd2" />
+    <MetadataFile FileName="StudentManager2.xsd" MetadataType="Schema" ID="9d047298-c7d0-478e-b788-3061f401f6dd" SourceId="1" SourceUrl="http://localhost:8080/wcf/example/StudentManager?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

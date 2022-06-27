@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:8080/wcf/example/StudentManager?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/_1203_Service" />
+  <xs:element name="PrintAll">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="PrintAllResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/_1203_Service" minOccurs="0" name="PrintAllResult" nillable="true" type="q1:ArrayOfStu" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="StuInsert">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/_1203_Service" minOccurs="0" name="stu" nillable="true" type="q2:Stu" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="StuInsertResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="StuInsertResult" type="xs:boolean" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="NumberToStudent">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="number" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="NumberToStudentResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/_1203_Service" minOccurs="0" name="NumberToStudentResult" nillable="true" type="q3:Stu" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="StuDelete">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="number" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="StuDeleteResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="StuDeleteResult" type="xs:boolean" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="StuUpdate">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="number" type="xs:int" />
+        <xs:element xmlns:q4="http://schemas.datacontract.org/2004/07/_1203_Service" minOccurs="0" name="type" type="q4:Enumclass" />
+        <xs:element minOccurs="0" name="grade" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="StuUpdateResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="StuUpdateResult" type="xs:boolean" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

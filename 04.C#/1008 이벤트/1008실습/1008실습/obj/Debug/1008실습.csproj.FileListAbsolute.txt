@@ -1,0 +1,5 @@
+C:\Users\ㄱ\Desktop\API Sample\1008실습\1008실습\bin\Debug\1008실습.exe.config
+C:\Users\ㄱ\Desktop\API Sample\1008실습\1008실습\bin\Debug\1008실습.exe
+C:\Users\ㄱ\Desktop\API Sample\1008실습\1008실습\bin\Debug\1008실습.pdb
+C:\Users\ㄱ\Desktop\API Sample\1008실습\1008실습\obj\Debug\1008실습.exe
+C:\Users\ㄱ\Desktop\API Sample\1008실습\1008실습\obj\Debug\1008실습.pdb

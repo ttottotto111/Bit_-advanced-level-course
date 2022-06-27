@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LNfxrPQGp7MZHr2Vh86VGcm17b+9I1LGCMdSUcRU7qfhpHZY1ysSu1BVleuRPPq/zkXjsY/dfDDV8o0c+FtuSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KSW\\Desktop\\비트교육\\비트 고급\\06.dll\\1012 오후\\1012ClassLibrary1\\1012ClassLibrary1\\1012ClassLibrary1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KSW\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\KSW\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

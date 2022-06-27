@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regex2", "Regex2\Regex2.csproj", "{D8A83D25-BAD6-4567-ADE5-8ED2A1AE20B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8A83D25-BAD6-4567-ADE5-8ED2A1AE20B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8A83D25-BAD6-4567-ADE5-8ED2A1AE20B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8A83D25-BAD6-4567-ADE5-8ED2A1AE20B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8A83D25-BAD6-4567-ADE5-8ED2A1AE20B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="_11123PictureClient.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="_11123PictureClient_localhost_PictureService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:8080/service1.asmx</Value>
+    </Setting>
+    <Setting Name="_11123PictureClient_localhost1_DBSaveService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:8080/InsertDB.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,401 @@
+[계정 생성 및 권한 부여]
+
+//시스템 계정으로 로그인.
+conn system/1111;
+
+//계정생성
+create user 유저네임 identified by 패스워드;
+예) create user ccmid identified by ccmpw;
+
+
+//접속권한부여
+grant resource, connect, create role,create session to 유저네임;
+예) grant resource, connect, create role,create session to ccmid;
+
+----------------------------------------------------------------------------------
+[DDL : 테이블 생성 & 삭제]
+
+//생성
+create table DMLTEST(
+ NO      number         not null,
+ NAME  varchar2(20),
+ ADDR   varchar2(40),
+ DT       DATE
+ 
+);
+
+//삭제
+drop table DMLTEST;
+
+//스키마 확인
+desc DMLTEST;
+
+[DML : insert]
+
+insert into DMLTEST (NO, NAME, ADDR, DT)
+values ( 1111, '홍길동', '대전', SYSDATE );
+
+insert into DMLTEST 
+values ( 2222, '김길동', '서울', '20/09/22');
+
+insert into DMLTEST (NO, NAME, DT)
+values ( 1111, '홍길동', SYSDATE );
+
+<error> not null 속성 확인---------------
+insert into DMLTEST (NAME, ADDR, DT)
+values ( '홍길동', '대전', SYSDATE );
+
+[DML : update]
+update DMLTEST
+set name = '고길동'
+where no = 1111;
+
+//no가 222인 사람의 이름을 김길순으로 주소를 부산으로 변경요청.
+update DMLTEST
+set name = '김길순', addr='부산'
+where no = 2222;
+
+이름이 김길순인 사람을 찾아서 해당 이름을 고길순으로 변경할 수 있을까?
+update DMLTEST
+set name = '고길순'
+where name = '김길순';
+
+[DML : delete]
+delete from dmltest;   //전체 로우데이터가 삭제됨...
+
+no 2222 인 사람을 삭제
+delete from dmltest 
+where no =2222;
+
+서브쿼리를 이용해 삭제 가능
+[주소가 대전인 사람의 no를 찾아] 해당 no를 갖고 있는 데이터를 삭제
+delete from dmltest
+where no in (select no from dmltest where addr = '대전' );
+
+[DQL : select]
+set linesize 120
+
+---------------------------------DML  쿼리문 작성시 주의점 -------------
+INSERT 문
+1) 한번에 한 로우데이터만 입력 가능.
+2) insert절에 명시된 컬럼의 갯수와 values에 명시한 데이터 갯수가 동일해야 한다.
+    insert절에 컬럼 명시가 안된 경우는 반드시 테이블의 모든 컬럼에 데이터를 넣어야 한다.
+3) 컬럼타입과 데이터 타입은 일치해야 한다.
+   <error>
+    insert into dmltest(no, addr)  
+    values('one', '대전');
+   
+    insert into dmltest(no, addr)  
+    values('3333', 5555);
+
+    - 자동 형변환 기능
+      숫자형태의 문자열일 경우 형변환 (문자열 data -> NUMBER data) 가능.
+      문자열타입에 숫자를 넣을 경우 형변환(NUMBER data -> 문자열 data) 가능
+
+4) 입력될 값의 크기는 컬럼의 크기보다 같거나 작아야 한다.
+    create table dmltest1( no number(3), name varchar2(5), addr varchar2(6));
+
+   - number test -----------------------------
+    insert into dmltest1 values(100, '이름', '대전');      
+    insert into dmltest1 values(-100, '이름', '대전');		//부호는 크기에 영향(X)
+
+    insert into dmltest1 values(1.1, '이름', '대전');	           //소수점 표현X  소수점은 자리수에 영향X
+    insert into dmltest1 values(1.12345, '이름', '대전');      //소수점 표현X
+    insert into dmltest1 values(1001, '이름', '대전');      <error>
+
+   create table dmltest1( no number(3,2), name varchar2(5), addr varchar2(6));
+  
+   insert into dmltest1 values(1.1, '이름', '대전');	
+   insert into dmltest1 values(1.12345, '이름', '대전'); 
+   insert into dmltest1 values(100, '이름', '대전');    <error>
+   
+  // number 사용이 자유롭다.(111.111,    11111111.1111111)
+  create table dmltest1( no number, name varchar2(5), addr varchar2(6));
+
+  - varchar2 test ------------------------------------------------
+  insert into dmltest1 values(1.1, 'abcde', 'abcdef');           //varchar2의 숫자의 단위는 byte
+  insert into dmltest1 values(1.1, 'abcde', 'abcdefg');         <error> addr에서
+   insert into dmltest1 values(1.1, 'abcde', '한글출력체크');  <error> 한글은 한 문자가 2byte
+
+   * varchar2 : 4000byte크기 저장 가능
+     NUMBER : 38자리수의 정수형 저장 가능
+
+5) NOT NULL속성의 컬럼에 insert시 반드시 값을 전달해야 한다.
+6) 날짜 몇가지 패턴 확인
+	values ( 1111, '홍길동', '대전', SYSDATE );
+	values ( 2222, '김길동', '서울', '20/09/22');
+
+    주의점 : 날자 저장 포맷
+     - '20/09/22' (기본포맷)    or '20-09-22'
+
+       select * from dmltest where dt > '20-09-22'   // 저장형식과 다르면 검색 불가...
+--------------------------------------------------------------------------------
+[치환변수]
+& : SQL문장이 실행될때마다 새로운 값을 요구
+
+ex1]
+SQL> select * from dmltest where no = &j;   
+j의 값을 입력하십시오:  1111
+
+ex2]
+SQL> select * from dmltest where name = &n;
+n의 값을 입력하십시오: '홍길동'
+
+ex3]
+SQL> insert into dmltest values(&no, &name, &addr, SYSDATE);
+no의 값을 입력하십시오: 2222
+name의 값을 입력하십시오: '강건'
+addr의 값을 입력하십시오: '서울'
+
+//================================================
+[0923 실습 쿼리]
+
+-- subject 테이블 생성 
+create table subject(
+sub_id number,
+name varchar2(20) NOT NULL,
+build varchar2(20) NOT NULL,
+constraint member_sub_id PRIMARY KEY (sub_id)
+);
+
+
+-- member 테이블 생성
+create table member(
+mem_id number constraint mem_id_pk primary key,
+name varchar(20) constraint mem_name_nn not null, 
+phone varchar(20) , 
+gender varchar(10) constraint mem_gender_nn not null check (gender in ('남', '여')), 
+grad number constraint mem_grad_nn not null check (grad > 0), 
+sub_id number constraint mem_sub_id_nn not null, 
+constraint mem_sub_id_fk foreign key(sub_id) references subject(sub_id));
+
+
+-- subject insert
+delete from subject;
+
+insert into subject values(1,'IT융합학부','W16');
+insert into subject(sub_id,name,build) values (2,'컴퓨터정보보안','W15');
+insert into subject values(3, '국제학', 'W19');
+insert into subject values(4,'게임멀티미디어학과','W16');
+insert into subject values(5, '스마트IT보안', 'W16');
+insert into subject values(6, '보건의료경영학과', 'W10');
+
+-- member insert
+delete from member;
+
+insert into member values(201610468,'김민범','01082522989','남',24,2);
+insert into member values(201610487, '서지범', '01011112222', '남', 24, 2);
+insert into member  values(201610470,'김선겸','010-6540-2185','남',24,1);
+insert into member values(201610554,'강건','010123456789','남',1,4);
+insert into member values(201610459, '강재현', '01059147645', '남', 24, 2);
+insert into member values (201610462,'구본석','010-1234-5678','남',3,2);
+insert into member values(201710478, '황동현', '010-1111-1111', '남', 100, 2);
+insert into member values(201610472, '김승욱', '01099077728', '남', 24, 2);
+insert into member values (201610544, '전성영', '01072663597', '남', 24, 2);
+insert into member values (201710544,'유재익', '01034889558', '남', 23, 2);
+insert into member values(201511692, '이진수', '01024002052', '남', 25, 6);
+insert into member values(201610506,'정홍주','01011111111','남',20,2);
+insert into member values(201610485, '박준호', '01086215465', '남', 24, 2);
+insert into member values(201610511, '홍태진', 01096429842 ,'남', 24, 2);
+insert into member values(201910681, '손을준', '123-123-13', '남', 2, 2);
+insert into member values(201610493, '윤강희', '01065402185', '남', 24, 2);
+insert into member values (202030069, '고해찬', '01055728241', '남', 26, 2);
+insert into member values(201910176, '박지호', '010-1111-1111', '남', 24, 3);
+insert into member values(201510452, '강경태', '01012341234', '남', 26,2);
+insert into member values('201910719', '권태영', '01022223333', '남', 22, 2);
+insert into member(mem_id, name, phone, gender, grad, sub_id) values(202030081, '황정규', 010, '남', 3, 5);
+INSERT INTO MEMBER VALUES(201610492, '양현진', '010-8544-7118', '남', 24, 3);
+
+-- delete
+delete from member where mem_id = 201610492;
+
+-- update : id검색해서 전화번호, 나이, 학과 수정 쿼리문....
+-- grad : 학년
+   자신의 id로 검색해서 grad를 변경하는 쿼리문
+update member set grad = 3 where mem_id = 201610544;
+update member set grad = 3 where mem_id = 202030069;
+update member set grad=2 where mem_id =201910176;
+update member set grad = 2 where mem_id = 201710478;
+update member set grad=3 where mem_id=201610468;
+update member set grad = 3 where mem_id = 201610487;
+update member set grad = 3 where mem_id = 201610511;
+update member set grad=2 where mem_id =201710544;
+update member  set grad = 3   where mem_id = 201610470;
+update member set grad=4 where mem_id=201610472;
+update member set grad = 3 where mem_id = 201610554;
+update member set grad = 3 where mem_id = 201510452;
+update member set grad = 4 where mem_id = 201610485;
+update member set grad = 2 where mem_id = 201910681;
+update member set grad = 3 where mem_id = 201511692;
+update member set grad = 3 where mem_id = 201610459;
+update member  set grad = 3   where mem_id = 201610493;
+update member set grad = 2 where mem_id = 201910719;
+update member set grad = 3 where mem_id = 201610506;
+update member set grad = 3 where mem_id = 202030081;
+UPDATE MEMBER SET GRAD = 3 WHERE MEM_ID = 201610492;
+update member set grad = 3 where mem_id = 201610462;
+
+-- select  질의문을 만들어 주세요. 한명이 한개씩
+
+0. 학과 전체 정보 검색
+   select * from subject;
+
+1. 황동현) 2학년인 학생의 정보 출력(학과ID는 학과명으로 출력할 것, 학과의 건물도 출력할 것)
+--황동현
+select mem_id, member.name, phone, gender, grad, subject.name 학과명, build 
+from member, subject 
+where member.sub_id = subject.sub_id
+and grad = 2;
+
+2. 손을준) 2019학번이면서 2학년인 학생의 이름과 학과명을 출력하시오, 
+--서지범
+select m.name, s.name
+from member m, subject s
+where m.sub_id = s.sub_id and m.mem_id like '2019%' and m.grad = 2; 
+
+3. 김승욱) 성이 김씨인 사람의 정보출력(신상정보만 출력, 단 학과정보는 학과명으로 출력할 것)
+--김건
+select member.mem_id,member.name,member.phone,member.gender,member.grad,subject.name 
+from member,subject 
+where subject.sub_id=member.sub_id and member.name like '김%';
+
+4. 서지범) 동일건물에 있는 학과들을 출력  w17?  w18?
+--홍태진
+select name
+from subject
+where build='W18';
+
+5. 강건)    학번별 인원을 출력하시오.   (201610492)??????숫자 연산(버림연산) / 문자열로변환->자르기
+-- 김선겸
+select substr(mem_id,1,4) as 학번별, count(mem_id) as 인원  
+from member
+group by substr(mem_id,1,4) ;
+
+6. 김민범) 학과별 인원을 출력하시오.
+-- 전선영
+select s.name as 학과, count(mem_id) as "학과별 인원"
+from member m, subject s
+where m.sub_id = s.sub_id
+group by s.name;
+
+7. 홍태진) 컴퓨터 정보보안 학과의 학생수를 출력하시오.
+-- 강재현
+ select count(*) 컴퓨터정보보안
+ from member m, subject s
+ where m.sub_id = s.sub_id and s.name = '컴퓨터정보보안';
+
+8. 구본석) 컴퓨터 정보보안 학과의 학생들을 출력하시오
+-- 김선겸
+select m.name as 학생
+from member m , subject s
+where m.sub_id = s.sub_id and s.name = '컴퓨터정보보안';
+
+9. 강재현) 남학생이 몇명인지 출력하시오.
+-- 황동현
+select count(*) 남학생 
+from member
+where gender = '남';
+
+10. 전성영) 학년이 2학년이상인 학생들을 출력하는데 학번을 내림차순으로 출력하세요
+-- 강재현
+select m.name 이름, m.mem_id 학번
+from member m
+where grad >= 2
+order by m.mem_id desc;
+
+11. 고해찬) 가장 많은 인원을 갖고 있는 학과명을 출력하시오.
+-- 고해찬
+select subject.name
+from member, subject 
+where member.sub_id = subject.sub_id 
+group by subject.name 
+having count(member.sub_id) in (select max(count(sub_id)) from member group by sub_id);
+
+12. 윤강희) 이름이 '양'으로 시작하는 학생 조회
+-- 박준호
+select m.mem_id, m.name, m.phone, m.gender, m.grad, s.name "학과명", s.build
+from member m, subject s
+where m.sub_id = s.sub_id
+  and m.name like '양%';
+
+13. 강경태) 건물이 w16인 학생중 3학년을 제외하고 출력하시오
+-- 서지범
+select *
+from member m, subject s
+where m.sub_id = s.sub_id and s.build = 'W16' and grad != 2; 
+
+14. 김선겸) 앞의 네자리가 같은 학번끼리의 이름 학년 정보 출력
+--고해찬
+select trunc(mem_id,-5)/100000 as 연도, name, grad 
+from member 
+where trunc(mem_id,-5)/100000 in (select  trunc(mem_id,-5)/100000 from member);
+
+--황동현
+select name, grad 
+from member
+where substr(mem_id, 1, 4) = &학번;
+
+15. 전강호) 가장 적은 인원을 갖고 있는 학과명을 출력하시오.
+select subject.name
+from member, subject 
+where member.sub_id = subject.sub_id 
+group by subject.name 
+having count(member.sub_id) = (select min(count(sub_id)) from member group by sub_id);
+
+16. 박준호) 학과ID로 검색해서 학과명과 건물명을 출력하시오.
+-- 전성영
+select s.name, build
+from member m, subject s
+where m.sub_id = s.sub_id and s.sub_id = &j;
+
+17. 황정규) 학번이 5로 끝나는 학생의 이름을 출력
+-- 김승욱
+select name
+from member
+where mem_id like '%5';
+
+18, 유재익) 학번이 2017이상인 학생의 이름 출력
+-- 구본석
+select name 
+from member 
+where substr(mem_id,1,4)>2016;
+
+19. 권태영) 이름이 '김'으로 시작하는 학생의 이름과 학년을 출력하세요
+-- 권태영
+select name, grad 
+from member
+where name like '김%';
+
+20. 이진수) 학과가 컴퓨터정보보안인 학생들을 제외한 다른 학생들의 전체정보를 출력하세요
+-- 황동현
+select mem_id, member.name, phone, gender, grad, subject.name 학과명, build 
+from member, subject 
+where member.sub_id = subject.sub_id
+and subject.name != '컴퓨터정보보안';
+
+21. 박지호) 학번이 0으로 끝나는 학생의 이름을 출력하시오
+-- 김승욱
+select name
+from member
+where mem_id like '%0';
+
+
+22. 양현진) 컴퓨터정보보안학과 중에서 3학년이 아닌 학생의 학번, 이름, 학과명 출력하세요
+-- 서지범
+select m.mem_id, m.name, s.name
+from member m, subject s
+where m.sub_id = s.sub_id and s.name = '컴퓨터정보보안' and m.grad != 3;
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--XmlReader 개체 만들기-->
+<books>
+ <book>
+ <title>XML.NET 과 ADO.NET</title>
+ <가격>22000</가격>
+ </book>
+<book>
+ <title>XML.NET</title>
+ <가격>2000</가격>
+ </book>
+<book>
+ <title>ADO.NET</title>
+ <가격>1000</가격>
+ </book>
+<book>
+ <title>C#</title>
+ <가격>222000</가격>
+ </book>
+<book>
+ <title>WinForm</title>
+ <가격>22400</가격>
+ </book>
+</books>

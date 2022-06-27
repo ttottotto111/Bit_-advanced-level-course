@@ -1,0 +1,14 @@
+C:\Users\KSW\Desktop\cs\1014\1014\obj\Debug\1014.csprojAssemblyReference.cache
+C:\Users\KSW\Desktop\cs\1014\1014\obj\Debug\1014.csproj.CoreCompileInputs.cache
+C:\Users\KSW\Desktop\cs\1014\1014\bin\Debug\1014.exe.config
+C:\Users\KSW\Desktop\cs\1014\1014\bin\Debug\1014.exe
+C:\Users\KSW\Desktop\cs\1014\1014\bin\Debug\1014.pdb
+C:\Users\KSW\Desktop\cs\1014\1014\obj\Debug\1014.exe
+C:\Users\KSW\Desktop\cs\1014\1014\obj\Debug\1014.pdb
+C:\Users\KSW\Desktop\cs\1014 WinForm 기초\1014\bin\Debug\1014.exe.config
+C:\Users\KSW\Desktop\cs\1014 WinForm 기초\1014\bin\Debug\1014.exe
+C:\Users\KSW\Desktop\cs\1014 WinForm 기초\1014\bin\Debug\1014.pdb
+C:\Users\KSW\Desktop\cs\1014 WinForm 기초\1014\obj\Debug\1014.csprojAssemblyReference.cache
+C:\Users\KSW\Desktop\cs\1014 WinForm 기초\1014\obj\Debug\1014.csproj.CoreCompileInputs.cache
+C:\Users\KSW\Desktop\cs\1014 WinForm 기초\1014\obj\Debug\1014.exe
+C:\Users\KSW\Desktop\cs\1014 WinForm 기초\1014\obj\Debug\1014.pdb

@@ -1,0 +1,32 @@
+C:\Users\ㄱ\Desktop\API Sample\1029논리적DB\1029논리적DB\bin\Debug\1029논리적DB.exe.config
+C:\Users\ㄱ\Desktop\API Sample\1029논리적DB\1029논리적DB\bin\Debug\1029논리적DB.exe
+C:\Users\ㄱ\Desktop\API Sample\1029논리적DB\1029논리적DB\bin\Debug\1029논리적DB.pdb
+C:\Users\ㄱ\Desktop\API Sample\1029논리적DB\1029논리적DB\obj\Debug\_1029논리적DB.Form1.resources
+C:\Users\ㄱ\Desktop\API Sample\1029논리적DB\1029논리적DB\obj\Debug\_1029논리적DB.Form2.resources
+C:\Users\ㄱ\Desktop\API Sample\1029논리적DB\1029논리적DB\obj\Debug\_1029논리적DB.Properties.Resources.resources
+C:\Users\ㄱ\Desktop\API Sample\1029논리적DB\1029논리적DB\obj\Debug\1029논리적DB.csproj.GenerateResource.cache
+C:\Users\ㄱ\Desktop\API Sample\1029논리적DB\1029논리적DB\obj\Debug\1029논리적DB.csproj.CoreCompileInputs.cache
+C:\Users\ㄱ\Desktop\API Sample\1029논리적DB\1029논리적DB\obj\Debug\1029논리적DB.exe
+C:\Users\ㄱ\Desktop\API Sample\1029논리적DB\1029논리적DB\obj\Debug\1029논리적DB.pdb
+C:\Users\KSW\Desktop\ADO.NET\1102\1029논리적DB\bin\Debug\1029논리적DB.exe.config
+C:\Users\KSW\Desktop\ADO.NET\1102\1029논리적DB\bin\Debug\1029논리적DB.exe
+C:\Users\KSW\Desktop\ADO.NET\1102\1029논리적DB\bin\Debug\1029논리적DB.pdb
+C:\Users\KSW\Desktop\ADO.NET\1102\1029논리적DB\obj\Debug\1029논리적DB.csprojAssemblyReference.cache
+C:\Users\KSW\Desktop\ADO.NET\1102\1029논리적DB\obj\Debug\_1029논리적DB.Form1.resources
+C:\Users\KSW\Desktop\ADO.NET\1102\1029논리적DB\obj\Debug\_1029논리적DB.Form2.resources
+C:\Users\KSW\Desktop\ADO.NET\1102\1029논리적DB\obj\Debug\_1029논리적DB.Properties.Resources.resources
+C:\Users\KSW\Desktop\ADO.NET\1102\1029논리적DB\obj\Debug\1029논리적DB.csproj.GenerateResource.cache
+C:\Users\KSW\Desktop\ADO.NET\1102\1029논리적DB\obj\Debug\1029논리적DB.csproj.CoreCompileInputs.cache
+C:\Users\KSW\Desktop\ADO.NET\1102\1029논리적DB\obj\Debug\1029논리적DB.exe
+C:\Users\KSW\Desktop\ADO.NET\1102\1029논리적DB\obj\Debug\1029논리적DB.pdb
+C:\Users\KSW\Desktop\ADO.NET\1102 실습\1029논리적DB\bin\Debug\1029논리적DB.exe.config
+C:\Users\KSW\Desktop\ADO.NET\1102 실습\1029논리적DB\bin\Debug\1029논리적DB.exe
+C:\Users\KSW\Desktop\ADO.NET\1102 실습\1029논리적DB\bin\Debug\1029논리적DB.pdb
+C:\Users\KSW\Desktop\ADO.NET\1102 실습\1029논리적DB\obj\Debug\1029논리적DB.csprojAssemblyReference.cache
+C:\Users\KSW\Desktop\ADO.NET\1102 실습\1029논리적DB\obj\Debug\_1029논리적DB.Form1.resources
+C:\Users\KSW\Desktop\ADO.NET\1102 실습\1029논리적DB\obj\Debug\_1029논리적DB.Form2.resources
+C:\Users\KSW\Desktop\ADO.NET\1102 실습\1029논리적DB\obj\Debug\_1029논리적DB.Properties.Resources.resources
+C:\Users\KSW\Desktop\ADO.NET\1102 실습\1029논리적DB\obj\Debug\1029논리적DB.csproj.GenerateResource.cache
+C:\Users\KSW\Desktop\ADO.NET\1102 실습\1029논리적DB\obj\Debug\1029논리적DB.csproj.CoreCompileInputs.cache
+C:\Users\KSW\Desktop\ADO.NET\1102 실습\1029논리적DB\obj\Debug\1029논리적DB.exe
+C:\Users\KSW\Desktop\ADO.NET\1102 실습\1029논리적DB\obj\Debug\1029논리적DB.pdb

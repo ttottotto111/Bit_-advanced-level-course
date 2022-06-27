@@ -1,0 +1,13 @@
+C:\Users\KSW\Desktop\cs\1005\1005\bin\Debug\netcoreapp3.1\1005.exe
+C:\Users\KSW\Desktop\cs\1005\1005\bin\Debug\netcoreapp3.1\1005.deps.json
+C:\Users\KSW\Desktop\cs\1005\1005\bin\Debug\netcoreapp3.1\1005.runtimeconfig.json
+C:\Users\KSW\Desktop\cs\1005\1005\bin\Debug\netcoreapp3.1\1005.runtimeconfig.dev.json
+C:\Users\KSW\Desktop\cs\1005\1005\bin\Debug\netcoreapp3.1\1005.dll
+C:\Users\KSW\Desktop\cs\1005\1005\bin\Debug\netcoreapp3.1\1005.pdb
+C:\Users\KSW\Desktop\cs\1005\1005\obj\Debug\netcoreapp3.1\1005.csprojAssemblyReference.cache
+C:\Users\KSW\Desktop\cs\1005\1005\obj\Debug\netcoreapp3.1\1005.AssemblyInfoInputs.cache
+C:\Users\KSW\Desktop\cs\1005\1005\obj\Debug\netcoreapp3.1\1005.AssemblyInfo.cs
+C:\Users\KSW\Desktop\cs\1005\1005\obj\Debug\netcoreapp3.1\1005.csproj.CoreCompileInputs.cache
+C:\Users\KSW\Desktop\cs\1005\1005\obj\Debug\netcoreapp3.1\1005.dll
+C:\Users\KSW\Desktop\cs\1005\1005\obj\Debug\netcoreapp3.1\1005.pdb
+C:\Users\KSW\Desktop\cs\1005\1005\obj\Debug\netcoreapp3.1\1005.genruntimeconfig.cache

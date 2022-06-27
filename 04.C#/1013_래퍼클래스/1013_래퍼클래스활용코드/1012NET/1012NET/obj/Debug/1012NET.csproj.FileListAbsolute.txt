@@ -1,0 +1,15 @@
+C:\Users\ㄱ\Desktop\API Sample\1012NET\1012NET\bin\Debug\1012NET.exe.config
+C:\Users\ㄱ\Desktop\API Sample\1012NET\1012NET\bin\Debug\1012NET.exe
+C:\Users\ㄱ\Desktop\API Sample\1012NET\1012NET\bin\Debug\1012NET.pdb
+C:\Users\ㄱ\Desktop\API Sample\1012NET\1012NET\obj\Debug\1012NET.exe
+C:\Users\ㄱ\Desktop\API Sample\1012NET\1012NET\obj\Debug\1012NET.pdb
+C:\Users\ㄱ\Desktop\1012_실습\1012NET\1012NET\bin\Debug\1012NET.exe.config
+C:\Users\ㄱ\Desktop\1012_실습\1012NET\1012NET\bin\Debug\1012NET.exe
+C:\Users\ㄱ\Desktop\1012_실습\1012NET\1012NET\bin\Debug\1012NET.pdb
+C:\Users\ㄱ\Desktop\1012_실습\1012NET\1012NET\obj\Debug\1012NET.exe
+C:\Users\ㄱ\Desktop\1012_실습\1012NET\1012NET\obj\Debug\1012NET.pdb
+C:\Users\ㄱ\Desktop\1012_실습\결과물\1013_래퍼클래스활용코드\1012NET\1012NET\bin\Debug\1012NET.exe.config
+C:\Users\ㄱ\Desktop\1012_실습\결과물\1013_래퍼클래스활용코드\1012NET\1012NET\obj\Debug\1012NET.exe
+C:\Users\ㄱ\Desktop\1012_실습\결과물\1013_래퍼클래스활용코드\1012NET\1012NET\obj\Debug\1012NET.pdb
+C:\Users\ㄱ\Desktop\1012_실습\결과물\1013_래퍼클래스활용코드\1012NET\1012NET\bin\Debug\1012NET.exe
+C:\Users\ㄱ\Desktop\1012_실습\결과물\1013_래퍼클래스활용코드\1012NET\1012NET\bin\Debug\1012NET.pdb

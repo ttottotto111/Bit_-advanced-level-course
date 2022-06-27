@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhereBase", "WhereBase\WhereBase.csproj", "{E1FFAEE1-99A4-4482-A812-DFACA47B0C8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1FFAEE1-99A4-4482-A812-DFACA47B0C8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1FFAEE1-99A4-4482-A812-DFACA47B0C8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1FFAEE1-99A4-4482-A812-DFACA47B0C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1FFAEE1-99A4-4482-A812-DFACA47B0C8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+C:\Users\KSW\Desktop\WinForm\1022\1022\bin\Debug\1022.exe.config
+C:\Users\KSW\Desktop\WinForm\1022\1022\bin\Debug\1022.exe
+C:\Users\KSW\Desktop\WinForm\1022\1022\bin\Debug\1022.pdb
+C:\Users\KSW\Desktop\WinForm\1022\1022\obj\Debug\1022.csprojAssemblyReference.cache
+C:\Users\KSW\Desktop\WinForm\1022\1022\obj\Debug\_1022.Form1.resources
+C:\Users\KSW\Desktop\WinForm\1022\1022\obj\Debug\_1022.Properties.Resources.resources
+C:\Users\KSW\Desktop\WinForm\1022\1022\obj\Debug\1022.csproj.GenerateResource.cache
+C:\Users\KSW\Desktop\WinForm\1022\1022\obj\Debug\1022.csproj.CoreCompileInputs.cache
+C:\Users\KSW\Desktop\WinForm\1022\1022\obj\Debug\1022.exe
+C:\Users\KSW\Desktop\WinForm\1022\1022\obj\Debug\1022.pdb
+C:\Users\KSW\Desktop\비트 고급\05.WinForm\1022\1022\bin\Debug\1022.exe.config
+C:\Users\KSW\Desktop\비트 고급\05.WinForm\1022\1022\bin\Debug\1022.exe
+C:\Users\KSW\Desktop\비트 고급\05.WinForm\1022\1022\bin\Debug\1022.pdb
+C:\Users\KSW\Desktop\비트 고급\05.WinForm\1022\1022\obj\Debug\1022.csprojAssemblyReference.cache
+C:\Users\KSW\Desktop\비트 고급\05.WinForm\1022\1022\obj\Debug\_1022.Form1.resources
+C:\Users\KSW\Desktop\비트 고급\05.WinForm\1022\1022\obj\Debug\_1022.Properties.Resources.resources
+C:\Users\KSW\Desktop\비트 고급\05.WinForm\1022\1022\obj\Debug\1022.csproj.GenerateResource.cache
+C:\Users\KSW\Desktop\비트 고급\05.WinForm\1022\1022\obj\Debug\1022.csproj.CoreCompileInputs.cache
+C:\Users\KSW\Desktop\비트 고급\05.WinForm\1022\1022\obj\Debug\1022.exe
+C:\Users\KSW\Desktop\비트 고급\05.WinForm\1022\1022\obj\Debug\1022.pdb

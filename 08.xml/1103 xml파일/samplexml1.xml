@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="euc-kr" standalone="yes" ?>
+<회원정보>
+	<회원아이디>&lt;ehclub&gt;</회원아이디>
+	<회원이름>&quot;장문석&quot;</회원이름>
+	<회원아이디>&lt;jejutour&gt;</회원아이디>
+	<회원이름>&quot;송정수&quot;</회원이름>
+	<!-- 참고로 & 표시는 &amp;로 하며 ' vytlsms &apos; 로 한다. -->
+</회원정보>

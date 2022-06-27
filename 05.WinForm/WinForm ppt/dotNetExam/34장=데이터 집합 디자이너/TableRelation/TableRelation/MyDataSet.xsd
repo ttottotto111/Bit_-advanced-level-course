@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="MyDataSet" targetNamespace="http://tempuri.org/MyDataSet.xsd" xmlns:mstns="http://tempuri.org/MyDataSet.xsd" xmlns="http://tempuri.org/MyDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="MyDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="MyDataSet" msprop:Generator_UserDSName="MyDataSet" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tblPeople" msprop:Generator_UserTableName="tblPeople" msprop:Generator_RowDeletedName="tblPeopleRowDeleted" msprop:Generator_TableClassName="tblPeopleDataTable" msprop:Generator_RowChangedName="tblPeopleRowChanged" msprop:Generator_RowClassName="tblPeopleRow" msprop:Generator_RowChangingName="tblPeopleRowChanging" msprop:Generator_RowEvArgName="tblPeopleRowChangeEvent" msprop:Generator_RowEvHandlerName="tblPeopleRowChangeEventHandler" msprop:Generator_TablePropName="tblPeople" msprop:Generator_TableVarName="tabletblPeople" msprop:Generator_RowDeletingName="tblPeopleRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Name" msprop:Generator_UserColumnName="Name" msprop:Generator_ColumnPropNameInRow="Name" msprop:Generator_ColumnVarNameInTable="columnName" msprop:Generator_ColumnPropNameInTable="NameColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Age" msprop:Generator_UserColumnName="Age" msprop:Generator_ColumnPropNameInRow="Age" msprop:Generator_ColumnVarNameInTable="columnAge" msprop:Generator_ColumnPropNameInTable="AgeColumn" type="xs:int" />
+              <xs:element name="Male" msprop:Generator_UserColumnName="Male" msprop:Generator_ColumnPropNameInRow="Male" msprop:Generator_ColumnVarNameInTable="columnMale" msprop:Generator_ColumnPropNameInTable="MaleColumn" type="xs:boolean" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="tblSale" msprop:Generator_UserTableName="tblSale" msprop:Generator_RowDeletedName="tblSaleRowDeleted" msprop:Generator_TableClassName="tblSaleDataTable" msprop:Generator_RowChangedName="tblSaleRowChanged" msprop:Generator_RowClassName="tblSaleRow" msprop:Generator_RowChangingName="tblSaleRowChanging" msprop:Generator_RowEvArgName="tblSaleRowChangeEvent" msprop:Generator_RowEvHandlerName="tblSaleRowChangeEventHandler" msprop:Generator_TablePropName="tblSale" msprop:Generator_TableVarName="tabletblSale" msprop:Generator_RowDeletingName="tblSaleRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="OrderNo" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_UserColumnName="OrderNo" msprop:Generator_ColumnPropNameInRow="OrderNo" msprop:Generator_ColumnVarNameInTable="columnOrderNo" msprop:Generator_ColumnPropNameInTable="OrderNoColumn" type="xs:int" />
+              <xs:element name="Customer" msprop:Generator_UserColumnName="Customer" msprop:Generator_ColumnPropNameInRow="Customer" msprop:Generator_ColumnVarNameInTable="columnCustomer" msprop:Generator_ColumnPropNameInTable="CustomerColumn" type="xs:string" />
+              <xs:element name="Item" msprop:Generator_UserColumnName="Item" msprop:Generator_ColumnPropNameInRow="Item" msprop:Generator_ColumnVarNameInTable="columnItem" msprop:Generator_ColumnPropNameInTable="ItemColumn" type="xs:string" />
+              <xs:element name="ODate" msprop:Generator_UserColumnName="ODate" msprop:Generator_ColumnPropNameInRow="ODate" msprop:Generator_ColumnVarNameInTable="columnODate" msprop:Generator_ColumnPropNameInTable="ODateColumn" type="xs:dateTime" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:tblPeople" />
+      <xs:field xpath="mstns:Name" />
+    </xs:unique>
+    <xs:unique name="tblSale_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:tblSale" />
+      <xs:field xpath="mstns:OrderNo" />
+    </xs:unique>
+    <xs:keyref name="FK_tblPeople_tblSale" refer="Constraint1" msprop:rel_Generator_UserRelationName="FK_tblPeople_tblSale" msprop:rel_Generator_RelationVarName="relationFK_tblPeople_tblSale" msprop:rel_Generator_UserChildTable="tblSale" msprop:rel_Generator_UserParentTable="tblPeople" msprop:rel_Generator_ParentPropName="tblPeopleRow" msprop:rel_Generator_ChildPropName="GettblSaleRows">
+      <xs:selector xpath=".//mstns:tblSale" />
+      <xs:field xpath="mstns:Customer" />
+    </xs:keyref>
+  </xs:element>
+</xs:schema>

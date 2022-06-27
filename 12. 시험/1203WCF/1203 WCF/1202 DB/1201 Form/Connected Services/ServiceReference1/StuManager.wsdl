@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="StuManager" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:8080/wcf/example/StudentManager?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:8080/wcf/example/StudentManager?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:8080/wcf/example/StudentManager?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/_1203_Service" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IStuManager_PrintAll_InputMessage">
+    <wsdl:part name="parameters" element="tns:PrintAll" />
+  </wsdl:message>
+  <wsdl:message name="IStuManager_PrintAll_OutputMessage">
+    <wsdl:part name="parameters" element="tns:PrintAllResponse" />
+  </wsdl:message>
+  <wsdl:message name="IStuManager_StuInsert_InputMessage">
+    <wsdl:part name="parameters" element="tns:StuInsert" />
+  </wsdl:message>
+  <wsdl:message name="IStuManager_StuInsert_OutputMessage">
+    <wsdl:part name="parameters" element="tns:StuInsertResponse" />
+  </wsdl:message>
+  <wsdl:message name="IStuManager_NumberToStudent_InputMessage">
+    <wsdl:part name="parameters" element="tns:NumberToStudent" />
+  </wsdl:message>
+  <wsdl:message name="IStuManager_NumberToStudent_OutputMessage">
+    <wsdl:part name="parameters" element="tns:NumberToStudentResponse" />
+  </wsdl:message>
+  <wsdl:message name="IStuManager_StuDelete_InputMessage">
+    <wsdl:part name="parameters" element="tns:StuDelete" />
+  </wsdl:message>
+  <wsdl:message name="IStuManager_StuDelete_OutputMessage">
+    <wsdl:part name="parameters" element="tns:StuDeleteResponse" />
+  </wsdl:message>
+  <wsdl:message name="IStuManager_StuUpdate_InputMessage">
+    <wsdl:part name="parameters" element="tns:StuUpdate" />
+  </wsdl:message>
+  <wsdl:message name="IStuManager_StuUpdate_OutputMessage">
+    <wsdl:part name="parameters" element="tns:StuUpdateResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IStuManager">
+    <wsdl:operation name="PrintAll">
+      <wsdl:input wsaw:Action="http://tempuri.org/IStuManager/PrintAll" message="tns:IStuManager_PrintAll_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IStuManager/PrintAllResponse" message="tns:IStuManager_PrintAll_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="StuInsert">
+      <wsdl:input wsaw:Action="http://tempuri.org/IStuManager/StuInsert" message="tns:IStuManager_StuInsert_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IStuManager/StuInsertResponse" message="tns:IStuManager_StuInsert_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="NumberToStudent">
+      <wsdl:input wsaw:Action="http://tempuri.org/IStuManager/NumberToStudent" message="tns:IStuManager_NumberToStudent_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IStuManager/NumberToStudentResponse" message="tns:IStuManager_NumberToStudent_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="StuDelete">
+      <wsdl:input wsaw:Action="http://tempuri.org/IStuManager/StuDelete" message="tns:IStuManager_StuDelete_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IStuManager/StuDeleteResponse" message="tns:IStuManager_StuDelete_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="StuUpdate">
+      <wsdl:input wsaw:Action="http://tempuri.org/IStuManager/StuUpdate" message="tns:IStuManager_StuUpdate_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IStuManager/StuUpdateResponse" message="tns:IStuManager_StuUpdate_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IStuManager" type="tns:IStuManager">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="PrintAll">
+      <soap:operation soapAction="http://tempuri.org/IStuManager/PrintAll" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="StuInsert">
+      <soap:operation soapAction="http://tempuri.org/IStuManager/StuInsert" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="NumberToStudent">
+      <soap:operation soapAction="http://tempuri.org/IStuManager/NumberToStudent" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="StuDelete">
+      <soap:operation soapAction="http://tempuri.org/IStuManager/StuDelete" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="StuUpdate">
+      <soap:operation soapAction="http://tempuri.org/IStuManager/StuUpdate" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="StuManager">
+    <wsdl:port name="BasicHttpBinding_IStuManager" binding="tns:BasicHttpBinding_IStuManager">
+      <soap:address location="http://localhost:8080/wcf/example/StudentManager" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

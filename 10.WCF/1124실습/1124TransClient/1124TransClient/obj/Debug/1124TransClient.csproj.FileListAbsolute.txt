@@ -1,0 +1,10 @@
+C:\Users\KSW\Desktop\1124TransClient\1124TransClient\bin\Debug\1124TransClient.exe.config
+C:\Users\KSW\Desktop\1124TransClient\1124TransClient\bin\Debug\1124TransClient.exe
+C:\Users\KSW\Desktop\1124TransClient\1124TransClient\bin\Debug\1124TransClient.pdb
+C:\Users\KSW\Desktop\1124TransClient\1124TransClient\obj\Debug\1124TransClient.csprojAssemblyReference.cache
+C:\Users\KSW\Desktop\1124TransClient\1124TransClient\obj\Debug\_1124TransClient.Form1.resources
+C:\Users\KSW\Desktop\1124TransClient\1124TransClient\obj\Debug\_1124TransClient.Properties.Resources.resources
+C:\Users\KSW\Desktop\1124TransClient\1124TransClient\obj\Debug\1124TransClient.csproj.GenerateResource.cache
+C:\Users\KSW\Desktop\1124TransClient\1124TransClient\obj\Debug\1124TransClient.csproj.CoreCompileInputs.cache
+C:\Users\KSW\Desktop\1124TransClient\1124TransClient\obj\Debug\1124TransClient.exe
+C:\Users\KSW\Desktop\1124TransClient\1124TransClient\obj\Debug\1124TransClient.pdb

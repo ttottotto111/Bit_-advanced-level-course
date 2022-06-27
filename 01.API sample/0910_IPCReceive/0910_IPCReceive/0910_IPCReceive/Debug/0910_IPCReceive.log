@@ -1,0 +1,6 @@
+﻿  fun.cpp
+C:\Users\KSW\Desktop\API sample\0910_IPCReceive\0910_IPCReceive\0910_IPCReceive\fun.cpp(98,40): warning C4302: '형식 캐스트': 'TCHAR *'에서 'TCHAR'(으)로 잘립니다.
+  handler.cpp
+  receive.cpp
+  코드를 생성하고 있습니다...
+  0910_IPCReceive.vcxproj -> C:\Users\KSW\Desktop\API sample\0910_IPCReceive\0910_IPCReceive\Debug\0910_IPCReceive.exe

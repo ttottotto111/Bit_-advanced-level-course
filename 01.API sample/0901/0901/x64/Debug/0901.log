@@ -1,0 +1,7 @@
+﻿  10.과제(수신자).cpp
+C:\Users\김승욱\Desktop\API sample\0901\0901\10.과제(수신자).cpp(26,7): error C2086: 'int x': 재정의
+C:\Users\김승욱\Desktop\API sample\0901\0901\10.과제(수신자).cpp(22): message : 'x' 선언을 참조하십시오.
+C:\Users\김승욱\Desktop\API sample\0901\0901\10.과제(수신자).cpp(27,7): error C2086: 'int y': 재정의
+C:\Users\김승욱\Desktop\API sample\0901\0901\10.과제(수신자).cpp(22): message : 'y' 선언을 참조하십시오.
+C:\Users\김승욱\Desktop\API sample\0901\0901\10.과제(수신자).cpp(28,34): error C2059: 구문 오류: ','
+C:\Users\김승욱\Desktop\API sample\0901\0901\10.과제(수신자).cpp(38,11): warning C4244: '초기화 중': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.

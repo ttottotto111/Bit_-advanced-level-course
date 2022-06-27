@@ -1,0 +1,4 @@
+﻿  소스3.cpp
+C:\Users\김승욱\Desktop\API sample\0831\0831\소스3.cpp(22,49): warning C4311: '형식 캐스트': 'HWND'에서 'int'(으)로 포인터가 잘립니다.
+C:\Users\김승욱\Desktop\API sample\0831\0831\소스3.cpp(22,49): warning C4302: '형식 캐스트': 'HWND'에서 'int'(으)로 잘립니다.
+  0831.vcxproj -> C:\Users\김승욱\Desktop\API sample\0831\x64\Debug\0831.exe
